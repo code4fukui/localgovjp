@@ -28,7 +28,9 @@ deno run -A make.js
 
 ## sample app
 
-- https://code4fukui.github.io/localgovjp/  
+- [日本の都市数](https://code4fukui.github.io/localgovjp/)
+- [日本の都道府県と市区町村のサイト一覧](https://code4fukui.github.io/localgovjp/list.html)
+- [全国役場マップ](https://code4fukui.github.io/localgovjp/map.html)
 
 ## data
 
