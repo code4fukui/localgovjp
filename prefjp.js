@@ -9,7 +9,7 @@ const PREF_JP = [
     "pref3code": "HKD",
     "url": "https://www.pref.hokkaido.lg.jp/",
     "lgcode": "010006",
-    "ISO3155-2": "JP-01"
+    "ISO3166-2": "JP-01"
   },
   {
     "pid": "2",
@@ -21,7 +21,7 @@ const PREF_JP = [
     "pref3code": "AOM",
     "url": "https://www.pref.aomori.lg.jp/",
     "lgcode": "020001",
-    "ISO3155-2": "JP-02"
+    "ISO3166-2": "JP-02"
   },
   {
     "pid": "3",
@@ -33,7 +33,7 @@ const PREF_JP = [
     "pref3code": "IWT",
     "url": "https://www.pref.iwate.jp/",
     "lgcode": "030007",
-    "ISO3155-2": "JP-03"
+    "ISO3166-2": "JP-03"
   },
   {
     "pid": "4",
@@ -45,7 +45,7 @@ const PREF_JP = [
     "pref3code": "MYG",
     "url": "https://www.pref.miyagi.jp/",
     "lgcode": "040002",
-    "ISO3155-2": "JP-04"
+    "ISO3166-2": "JP-04"
   },
   {
     "pid": "5",
@@ -57,7 +57,7 @@ const PREF_JP = [
     "pref3code": "AKT",
     "url": "https://www.pref.akita.lg.jp/",
     "lgcode": "050008",
-    "ISO3155-2": "JP-05"
+    "ISO3166-2": "JP-05"
   },
   {
     "pid": "6",
@@ -69,7 +69,7 @@ const PREF_JP = [
     "pref3code": "YGT",
     "url": "https://www.pref.yamagata.jp/",
     "lgcode": "060003",
-    "ISO3155-2": "JP-06"
+    "ISO3166-2": "JP-06"
   },
   {
     "pid": "7",
@@ -81,7 +81,7 @@ const PREF_JP = [
     "pref3code": "FKS",
     "url": "https://www.pref.fukushima.lg.jp/",
     "lgcode": "070009",
-    "ISO3155-2": "JP-07"
+    "ISO3166-2": "JP-07"
   },
   {
     "pid": "8",
@@ -93,7 +93,7 @@ const PREF_JP = [
     "pref3code": "IBR",
     "url": "https://www.pref.ibaraki.jp/",
     "lgcode": "080004",
-    "ISO3155-2": "JP-08"
+    "ISO3166-2": "JP-08"
   },
   {
     "pid": "9",
@@ -105,7 +105,7 @@ const PREF_JP = [
     "pref3code": "TCG",
     "url": "https://www.pref.tochigi.lg.jp/",
     "lgcode": "090000",
-    "ISO3155-2": "JP-09"
+    "ISO3166-2": "JP-09"
   },
   {
     "pid": "10",
@@ -117,7 +117,7 @@ const PREF_JP = [
     "pref3code": "GNM",
     "url": "https://www.pref.gunma.jp/",
     "lgcode": "100005",
-    "ISO3155-2": "JP-10"
+    "ISO3166-2": "JP-10"
   },
   {
     "pid": "11",
@@ -129,7 +129,7 @@ const PREF_JP = [
     "pref3code": "SIT",
     "url": "https://www.pref.saitama.lg.jp/",
     "lgcode": "110001",
-    "ISO3155-2": "JP-11"
+    "ISO3166-2": "JP-11"
   },
   {
     "pid": "12",
@@ -141,7 +141,7 @@ const PREF_JP = [
     "pref3code": "CBA",
     "url": "https://www.pref.chiba.lg.jp/",
     "lgcode": "120006",
-    "ISO3155-2": "JP-12"
+    "ISO3166-2": "JP-12"
   },
   {
     "pid": "13",
@@ -153,7 +153,7 @@ const PREF_JP = [
     "pref3code": "TKY",
     "url": "https://www.metro.tokyo.lg.jp/",
     "lgcode": "130001",
-    "ISO3155-2": "JP-13"
+    "ISO3166-2": "JP-13"
   },
   {
     "pid": "14",
@@ -165,7 +165,7 @@ const PREF_JP = [
     "pref3code": "KNG",
     "url": "https://www.pref.kanagawa.jp/",
     "lgcode": "140007",
-    "ISO3155-2": "JP-14"
+    "ISO3166-2": "JP-14"
   },
   {
     "pid": "15",
@@ -177,7 +177,7 @@ const PREF_JP = [
     "pref3code": "NIG",
     "url": "https://www.pref.niigata.lg.jp/",
     "lgcode": "150002",
-    "ISO3155-2": "JP-15"
+    "ISO3166-2": "JP-15"
   },
   {
     "pid": "16",
@@ -189,7 +189,7 @@ const PREF_JP = [
     "pref3code": "TYM",
     "url": "https://www.pref.toyama.jp/",
     "lgcode": "160008",
-    "ISO3155-2": "JP-16"
+    "ISO3166-2": "JP-16"
   },
   {
     "pid": "17",
@@ -201,7 +201,7 @@ const PREF_JP = [
     "pref3code": "ISK",
     "url": "https://www.pref.ishikawa.lg.jp/",
     "lgcode": "170003",
-    "ISO3155-2": "JP-17"
+    "ISO3166-2": "JP-17"
   },
   {
     "pid": "18",
@@ -213,7 +213,7 @@ const PREF_JP = [
     "pref3code": "FKI",
     "url": "https://www.pref.fukui.lg.jp/",
     "lgcode": "180009",
-    "ISO3155-2": "JP-18"
+    "ISO3166-2": "JP-18"
   },
   {
     "pid": "19",
@@ -225,7 +225,7 @@ const PREF_JP = [
     "pref3code": "YMN",
     "url": "https://www.pref.yamanashi.jp/",
     "lgcode": "190004",
-    "ISO3155-2": "JP-19"
+    "ISO3166-2": "JP-19"
   },
   {
     "pid": "20",
@@ -237,7 +237,7 @@ const PREF_JP = [
     "pref3code": "NGN",
     "url": "https://www.pref.nagano.lg.jp/",
     "lgcode": "200000",
-    "ISO3155-2": "JP-20"
+    "ISO3166-2": "JP-20"
   },
   {
     "pid": "21",
@@ -249,7 +249,7 @@ const PREF_JP = [
     "pref3code": "GIF",
     "url": "https://www.pref.gifu.lg.jp/",
     "lgcode": "210005",
-    "ISO3155-2": "JP-21"
+    "ISO3166-2": "JP-21"
   },
   {
     "pid": "22",
@@ -261,7 +261,7 @@ const PREF_JP = [
     "pref3code": "SZO",
     "url": "https://www.pref.shizuoka.jp/",
     "lgcode": "220001",
-    "ISO3155-2": "JP-22"
+    "ISO3166-2": "JP-22"
   },
   {
     "pid": "23",
@@ -273,7 +273,7 @@ const PREF_JP = [
     "pref3code": "AIC",
     "url": "https://www.pref.aichi.jp/",
     "lgcode": "230006",
-    "ISO3155-2": "JP-23"
+    "ISO3166-2": "JP-23"
   },
   {
     "pid": "24",
@@ -285,7 +285,7 @@ const PREF_JP = [
     "pref3code": "MIE",
     "url": "https://www.pref.mie.lg.jp/",
     "lgcode": "240001",
-    "ISO3155-2": "JP-24"
+    "ISO3166-2": "JP-24"
   },
   {
     "pid": "25",
@@ -297,7 +297,7 @@ const PREF_JP = [
     "pref3code": "SGA",
     "url": "https://www.pref.shiga.lg.jp/",
     "lgcode": "250007",
-    "ISO3155-2": "JP-25"
+    "ISO3166-2": "JP-25"
   },
   {
     "pid": "26",
@@ -309,7 +309,7 @@ const PREF_JP = [
     "pref3code": "KYT",
     "url": "https://www.pref.kyoto.jp/",
     "lgcode": "260002",
-    "ISO3155-2": "JP-26"
+    "ISO3166-2": "JP-26"
   },
   {
     "pid": "27",
@@ -321,7 +321,7 @@ const PREF_JP = [
     "pref3code": "OSK",
     "url": "https://www.pref.osaka.lg.jp/",
     "lgcode": "270008",
-    "ISO3155-2": "JP-27"
+    "ISO3166-2": "JP-27"
   },
   {
     "pid": "28",
@@ -333,7 +333,7 @@ const PREF_JP = [
     "pref3code": "HYG",
     "url": "https://web.pref.hyogo.lg.jp/",
     "lgcode": "280003",
-    "ISO3155-2": "JP-28"
+    "ISO3166-2": "JP-28"
   },
   {
     "pid": "29",
@@ -345,7 +345,7 @@ const PREF_JP = [
     "pref3code": "NRA",
     "url": "https://www.pref.nara.jp/",
     "lgcode": "290009",
-    "ISO3155-2": "JP-29"
+    "ISO3166-2": "JP-29"
   },
   {
     "pid": "30",
@@ -357,7 +357,7 @@ const PREF_JP = [
     "pref3code": "WKY",
     "url": "https://www.pref.wakayama.lg.jp/",
     "lgcode": "300004",
-    "ISO3155-2": "JP-30"
+    "ISO3166-2": "JP-30"
   },
   {
     "pid": "31",
@@ -369,7 +369,7 @@ const PREF_JP = [
     "pref3code": "TTR",
     "url": "https://www.pref.tottori.lg.jp/",
     "lgcode": "310000",
-    "ISO3155-2": "JP-31"
+    "ISO3166-2": "JP-31"
   },
   {
     "pid": "32",
@@ -381,7 +381,7 @@ const PREF_JP = [
     "pref3code": "SMN",
     "url": "https://www.pref.shimane.lg.jp/",
     "lgcode": "320005",
-    "ISO3155-2": "JP-32"
+    "ISO3166-2": "JP-32"
   },
   {
     "pid": "33",
@@ -393,7 +393,7 @@ const PREF_JP = [
     "pref3code": "OKY",
     "url": "https://www.pref.okayama.jp/",
     "lgcode": "330001",
-    "ISO3155-2": "JP-33"
+    "ISO3166-2": "JP-33"
   },
   {
     "pid": "34",
@@ -405,7 +405,7 @@ const PREF_JP = [
     "pref3code": "HRS",
     "url": "https://www.pref.hiroshima.lg.jp/",
     "lgcode": "340006",
-    "ISO3155-2": "JP-34"
+    "ISO3166-2": "JP-34"
   },
   {
     "pid": "35",
@@ -417,7 +417,7 @@ const PREF_JP = [
     "pref3code": "YGC",
     "url": "https://www.pref.yamaguchi.lg.jp/",
     "lgcode": "350001",
-    "ISO3155-2": "JP-35"
+    "ISO3166-2": "JP-35"
   },
   {
     "pid": "36",
@@ -429,7 +429,7 @@ const PREF_JP = [
     "pref3code": "TKS",
     "url": "https://www.pref.tokushima.lg.jp/",
     "lgcode": "360007",
-    "ISO3155-2": "JP-36"
+    "ISO3166-2": "JP-36"
   },
   {
     "pid": "37",
@@ -441,7 +441,7 @@ const PREF_JP = [
     "pref3code": "KGW",
     "url": "https://www.pref.kagawa.lg.jp/",
     "lgcode": "370002",
-    "ISO3155-2": "JP-37"
+    "ISO3166-2": "JP-37"
   },
   {
     "pid": "38",
@@ -453,7 +453,7 @@ const PREF_JP = [
     "pref3code": "EHM",
     "url": "https://www.pref.ehime.jp/",
     "lgcode": "380008",
-    "ISO3155-2": "JP-38"
+    "ISO3166-2": "JP-38"
   },
   {
     "pid": "39",
@@ -465,7 +465,7 @@ const PREF_JP = [
     "pref3code": "KOC",
     "url": "https://www.pref.kochi.lg.jp/",
     "lgcode": "390003",
-    "ISO3155-2": "JP-39"
+    "ISO3166-2": "JP-39"
   },
   {
     "pid": "40",
@@ -477,7 +477,7 @@ const PREF_JP = [
     "pref3code": "FKO",
     "url": "https://www.pref.fukuoka.lg.jp/",
     "lgcode": "400009",
-    "ISO3155-2": "JP-40"
+    "ISO3166-2": "JP-40"
   },
   {
     "pid": "41",
@@ -489,7 +489,7 @@ const PREF_JP = [
     "pref3code": "SAG",
     "url": "https://www.pref.saga.lg.jp/",
     "lgcode": "410004",
-    "ISO3155-2": "JP-41"
+    "ISO3166-2": "JP-41"
   },
   {
     "pid": "42",
@@ -501,7 +501,7 @@ const PREF_JP = [
     "pref3code": "NGS",
     "url": "https://www.pref.nagasaki.lg.jp/",
     "lgcode": "420000",
-    "ISO3155-2": "JP-42"
+    "ISO3166-2": "JP-42"
   },
   {
     "pid": "43",
@@ -513,7 +513,7 @@ const PREF_JP = [
     "pref3code": "KMM",
     "url": "https://www.pref.kumamoto.jp/",
     "lgcode": "430005",
-    "ISO3155-2": "JP-43"
+    "ISO3166-2": "JP-43"
   },
   {
     "pid": "44",
@@ -525,7 +525,7 @@ const PREF_JP = [
     "pref3code": "OIT",
     "url": "https://www.pref.oita.jp/",
     "lgcode": "440001",
-    "ISO3155-2": "JP-44"
+    "ISO3166-2": "JP-44"
   },
   {
     "pid": "45",
@@ -537,7 +537,7 @@ const PREF_JP = [
     "pref3code": "MYZ",
     "url": "https://www.pref.miyazaki.lg.jp/",
     "lgcode": "450006",
-    "ISO3155-2": "JP-45"
+    "ISO3166-2": "JP-45"
   },
   {
     "pid": "46",
@@ -549,7 +549,7 @@ const PREF_JP = [
     "pref3code": "KGS",
     "url": "https://www.pref.kagoshima.jp/",
     "lgcode": "460001",
-    "ISO3155-2": "JP-46"
+    "ISO3166-2": "JP-46"
   },
   {
     "pid": "47",
@@ -561,6 +561,6 @@ const PREF_JP = [
     "pref3code": "OKN",
     "url": "https://www.pref.okinawa.lg.jp/",
     "lgcode": "470007",
-    "ISO3155-2": "JP-47"
+    "ISO3166-2": "JP-47"
   }
 ]

@@ -1,4 +1,4 @@
-﻿pid,pref,prefkana,prefshort,prefshortkana,pref_en,pref3code,url,lgcode,ISO3155-2
+﻿pid,pref,prefkana,prefshort,prefshortkana,pref_en,pref3code,url,lgcode,ISO3166-2
 1,北海道,ほっかいどう,北海道,ほっかいどう,Hokkaido,HKD,https://www.pref.hokkaido.lg.jp/,010006,JP-01
 2,青森県,あおもりけん,青森,あおもり,Aomori,AOM,https://www.pref.aomori.lg.jp/,020001,JP-02
 3,岩手県,いわてけん,岩手,いわて,Iwate,IWT,https://www.pref.iwate.jp/,030007,JP-03

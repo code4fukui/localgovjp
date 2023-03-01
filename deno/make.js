@@ -16,7 +16,7 @@ export const make = async (fn, name, constname) => {
         delete d.err;
         if (!d.city) {
             d.lgcode = LGCode.encode(d.pref);
-            d["ISO3155-2"] = "JP-" + fix0(d.pid, 2);
+            d["ISO3166-2"] = "JP-" + fix0(d.pid, 2);
         } else {
             const city = d.pref + d.city;
             d.lgcode = LGCode.encode(city.replace(" ", ""));
