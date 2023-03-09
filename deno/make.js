@@ -3,6 +3,7 @@ import { CSV } from "https://js.sabae.cc/CSV.js";
 import { LGCode } from "https://code4fukui.github.io/LGCode/LGCode.js";
 import { fix0 } from "https://js.sabae.cc/fix0.js";
 import { ArrayUtil } from "https://js.sabae.cc/ArrayUtil.js";
+import { chk } from "./chk.js";
 
 export const make = async (fn, name, constname) => {
     const srcfn = fn;
@@ -41,10 +42,13 @@ export const make = async (fn, name, constname) => {
     console.log(data.length, codes.length);
 };
 
-//chk("prefjp-utf8.csv");
 //chkHeader("https://fukuno.jig.jp/");
-//make("c-localgovjp-utf8.csv", "localgovjp", "LOCALGOV_JP");
+
+//chk("prefjp-utf8.csv");
 //make("c-prefjp-utf8.csv", "prefjp", "PREF_JP");
+
+//chk("localgovjp-utf8.csv");
+make("c-localgovjp-utf8.csv", "localgovjp", "LOCALGOV_JP");
 
 /*
 const res = await fetchWithTimeout("http://www.town.okushiri.lg.jp/");

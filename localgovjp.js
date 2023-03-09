@@ -463,7 +463,7 @@ const LOCALGOV_JP = [
     "citykana": "ふらのし",
     "lat": "43.34200922",
     "lng": "142.3831468",
-    "url": "http://www.city.furano.hokkaido.jp/",
+    "url": "https://www.city.furano.hokkaido.jp/",
     "phrase": "へそとスキーとワインのまち　協働・感動・生き活きふらの",
     "lgcode": "012297"
   },
@@ -631,7 +631,7 @@ const LOCALGOV_JP = [
     "citykana": "しかべちょう",
     "lat": "42.026639",
     "lng": "140.831672",
-    "url": "http://www.town.shikabe.lg.jp/",
+    "url": "https://www.town.shikabe.lg.jp/",
     "phrase": "きらめく海・駒ヶ岳（やま）・うるおいの湯郷（ユートピア）",
     "lgcode": "013439"
   },
@@ -847,7 +847,7 @@ const LOCALGOV_JP = [
     "citykana": "きもべつちょう",
     "lat": "42.79543379",
     "lng": "140.9345372",
-    "url": "http://www.town.kimobetsu.hokkaido.jp/",
+    "url": "https://www.town.kimobetsu.hokkaido.jp/",
     "phrase": "人と自然がきらめく町きもべつ",
     "lgcode": "013986"
   },
@@ -859,7 +859,7 @@ const LOCALGOV_JP = [
     "citykana": "きょうごくちょう",
     "lat": "42.8582269",
     "lng": "140.8841146",
-    "url": "http://www.town-kyogoku.jp/",
+    "url": "https://www.town-kyogoku.jp/",
     "phrase": "名水の郷 きょうごく　美しい水と農（みのり）の幸せなまち",
     "lgcode": "013994"
   },
@@ -907,7 +907,7 @@ const LOCALGOV_JP = [
     "citykana": "とまりむら",
     "lat": "43.06300163",
     "lng": "140.4989034",
-    "url": "http://www.vill.tomari.hokkaido.jp/",
+    "url": "https://www.vill.tomari.hokkaido.jp/",
     "phrase": "エネルギーのふるさと とまり　日本海にこにこ元気むら",
     "lgcode": "014036"
   },
@@ -1027,7 +1027,7 @@ const LOCALGOV_JP = [
     "citykana": "ゆにちょう",
     "lat": "42.99960678",
     "lng": "141.79028",
-    "url": "http://www.town.yuni.lg.jp/",
+    "url": "https://www.town.yuni.lg.jp/",
     "phrase": "風薫る健康のまち　ゆにガーデンの由仁町へようこそ",
     "lgcode": "014273"
   },
@@ -1195,7 +1195,7 @@ const LOCALGOV_JP = [
     "citykana": "ぴっぷちょう",
     "lat": "43.87500414",
     "lng": "142.4776752",
-    "url": "http://www.town.pippu.hokkaido.jp/",
+    "url": "https://www.town.pippu.hokkaido.jp/",
     "phrase": "スキーといちごのまち　笑顔あふれるまち ぴっぷを目指して",
     "lgcode": "014559"
   },
@@ -1207,7 +1207,7 @@ const LOCALGOV_JP = [
     "citykana": "あいべつちょう",
     "lat": "43.90667341",
     "lng": "142.5778203",
-    "url": "http://www.town.aibetsu.hokkaido.jp/",
+    "url": "https://www.town.aibetsu.hokkaido.jp/",
     "phrase": "美しい田園ときのこの里 愛 いっぱいのまち 愛別町　心豊かで笑顔がつながるまちをめざして",
     "lgcode": "014567"
   },
@@ -1735,7 +1735,7 @@ const LOCALGOV_JP = [
     "citykana": "おうむちょう",
     "lat": "44.58248425",
     "lng": "142.9618577",
-    "url": "http://www.town.oumu.hokkaido.jp/",
+    "url": "https://www.town.oumu.hokkaido.jp/",
     "phrase": "海・山・人ひびきあう町オホーツクおうむ　変革と創造に挑むまち・雄武",
     "lgcode": "015636"
   },
@@ -1795,7 +1795,7 @@ const LOCALGOV_JP = [
     "citykana": "あつまちょう",
     "lat": "42.72363661",
     "lng": "141.8778914",
-    "url": "http://www.town.atsuma.lg.jp/office/",
+    "url": "https://www.town.atsuma.lg.jp/office/",
     "phrase": "いのち満ちる農（みのり）の里あつま大いなる田園の町",
     "lgcode": "015814"
   },
@@ -1987,7 +1987,7 @@ const LOCALGOV_JP = [
     "citykana": "しみずちょう",
     "lat": "43.01143823",
     "lng": "142.8845411",
-    "url": "http://www.town.shimizu.hokkaido.jp/",
+    "url": "https://www.town.shimizu.hokkaido.jp/",
     "phrase": "自然と心が響き合うまち・清水　長大な日高山脈と十勝川に抱かれた町",
     "lgcode": "016365"
   },
@@ -2287,7 +2287,7 @@ const LOCALGOV_JP = [
     "citykana": "ひろさきし",
     "lat": "40.60305556",
     "lng": "140.4641667",
-    "url": "http://www.city.hirosaki.aomori.jp/",
+    "url": "https://www.city.hirosaki.aomori.jp/",
     "phrase": "自然と共に生きる豊かな産業・文化都市",
     "lgcode": "022021"
   },
@@ -2323,7 +2323,7 @@ const LOCALGOV_JP = [
     "citykana": "ごしょがわらし",
     "lat": "40.807835",
     "lng": "140.446118",
-    "url": "http://www.city.goshogawara.lg.jp/",
+    "url": "https://www.city.goshogawara.lg.jp/",
     "phrase": "活力ある・明るく住みよい豊かなまち",
     "lgcode": "022055"
   },
@@ -2419,7 +2419,7 @@ const LOCALGOV_JP = [
     "citykana": "よもぎたむら",
     "lat": "40.97194444",
     "lng": "140.6558333",
-    "url": "http://www.vill.yomogita.lg.jp/",
+    "url": "https://www.vill.yomogita.lg.jp/",
     "phrase": "北緯41度。美しい緑と、青い海　自然と調和する活力あるまちづくり",
     "lgcode": "023043"
   },
@@ -2539,7 +2539,7 @@ const LOCALGOV_JP = [
     "citykana": "なかどまりまち",
     "lat": "40.960427",
     "lng": "140.434122",
-    "url": "http://www.town.nakadomari.lg.jp/index.cfm",
+    "url": "https://www.town.nakadomari.lg.jp/index.cfm",
     "phrase": "大地と恵みと海の幸、心ひとつに希望の町",
     "lgcode": "023876"
   },
@@ -2563,7 +2563,7 @@ const LOCALGOV_JP = [
     "citykana": "しちのへまち",
     "lat": "40.74472222",
     "lng": "141.1577778",
-    "url": "http://www.town.shichinohe.lg.jp/",
+    "url": "https://www.town.shichinohe.lg.jp/",
     "phrase": "潤いと彩りあふれる田園文化都市をめざして",
     "lgcode": "024023"
   },
@@ -2695,7 +2695,7 @@ const LOCALGOV_JP = [
     "citykana": "ごのへまち",
     "lat": "40.53111111",
     "lng": "141.3077778",
-    "url": "http://www.town.gonohe.aomori.jp/",
+    "url": "https://www.town.gonohe.aomori.jp/",
     "phrase": "みんなで創る、活気のあるまち「ごのへ」",
     "lgcode": "024422"
   },
@@ -2707,7 +2707,7 @@ const LOCALGOV_JP = [
     "citykana": "たっこまち",
     "lat": "40.34",
     "lng": "141.1519444",
-    "url": "http://www.town.takko.lg.jp/",
+    "url": "https://www.town.takko.lg.jp/",
     "phrase": "緑の大地に協働と自立のまちづくり　にんにくの町・田子",
     "lgcode": "024431"
   },
@@ -2947,7 +2947,7 @@ const LOCALGOV_JP = [
     "citykana": "いわてまち",
     "lat": "39.9725",
     "lng": "141.2125",
-    "url": "http://town.iwate.iwate.jp/",
+    "url": "https://town.iwate.iwate.jp/",
     "phrase": "北上川の源泉、北緯40度の町、彫刻のある町、ホッケーの町",
     "lgcode": "033031"
   },
@@ -3091,7 +3091,7 @@ const LOCALGOV_JP = [
     "citykana": "かるまいまち",
     "lat": "40.32666667",
     "lng": "141.4605556",
-    "url": "http://www.town.karumai.iwate.jp/",
+    "url": "https://www.town.karumai.iwate.jp/",
     "phrase": "雑穀の里・軽米へようこそ　軽米にはヒエ島という楽園があるらしい　花と緑があふれ 人が輝く ふれあいと 健康文化の町",
     "lgcode": "035017"
   },
@@ -3115,7 +3115,7 @@ const LOCALGOV_JP = [
     "citykana": "くのへむら",
     "lat": "40.21138889",
     "lng": "141.4188889",
-    "url": "http://www.vill.kunohe.iwate.jp/",
+    "url": "https://www.vill.kunohe.iwate.jp/",
     "phrase": "花と緑が織りなす、安らぎの里",
     "lgcode": "035068"
   },
@@ -3127,7 +3127,7 @@ const LOCALGOV_JP = [
     "citykana": "ひろのちょう",
     "lat": "40.40861111",
     "lng": "141.7180556",
-    "url": "http://www.town.hirono.iwate.jp/",
+    "url": "https://www.town.hirono.iwate.jp/",
     "phrase": "海と高原の牧場（まきば）　人々がふれあい 心豊かに いきいきと躍動するまち",
     "lgcode": "035076"
   },
@@ -3415,7 +3415,7 @@ const LOCALGOV_JP = [
     "citykana": "むらたまち",
     "lat": "38.11861111",
     "lng": "140.7225",
-    "url": "http://www.town.murata.miyagi.jp/",
+    "url": "https://www.town.murata.miyagi.jp/",
     "phrase": "一生　住みたくなる町「むらた」",
     "lgcode": "043222"
   },
@@ -3439,7 +3439,7 @@ const LOCALGOV_JP = [
     "citykana": "かわさきまち",
     "lat": "38.17777778",
     "lng": "140.6436111",
-    "url": "http://www.town.kawasaki.miyagi.jp/",
+    "url": "https://www.town.kawasaki.miyagi.jp/",
     "phrase": "人と自然が息づく美しいまち　森をつくるまち　かわさき",
     "lgcode": "043249"
   },
@@ -3451,7 +3451,7 @@ const LOCALGOV_JP = [
     "citykana": "まるもりまち",
     "lat": "37.91138889",
     "lng": "140.7655556",
-    "url": "http://www.town.marumori.miyagi.jp/",
+    "url": "https://www.town.marumori.miyagi.jp/",
     "phrase": "水と緑の輝くまち　丸森",
     "lgcode": "043419"
   },
@@ -3835,7 +3835,7 @@ const LOCALGOV_JP = [
     "citykana": "はっぽうちょう",
     "lat": "40.31888889",
     "lng": "140.0386111",
-    "url": "http://www.town.happou.akita.jp/",
+    "url": "https://www.town.happou.akita.jp/",
     "phrase": "白神の自然と人とで創るやすらぎのまち",
     "lgcode": "053490"
   },
@@ -4063,7 +4063,7 @@ const LOCALGOV_JP = [
     "citykana": "おばなざわし",
     "lat": "38.60083333",
     "lng": "140.4058333",
-    "url": "http://www.city.obanazawa.yamagata.jp/",
+    "url": "https://www.city.obanazawa.yamagata.jp/",
     "phrase": "雪とスイカと花笠のまち　人と自然がおりなすふれあいの里",
     "lgcode": "062120"
   },
@@ -4195,7 +4195,7 @@ const LOCALGOV_JP = [
     "citykana": "ふながたまち",
     "lat": "38.69166667",
     "lng": "140.32",
-    "url": "http://www.town.funagata.yamagata.jp/",
+    "url": "https://www.town.funagata.yamagata.jp/",
     "phrase": "若あゆと古代ロマンの里　出あい ふれあい 支えあい ～新たな「結い」の創造～",
     "lgcode": "063631"
   },
@@ -4219,7 +4219,7 @@ const LOCALGOV_JP = [
     "citykana": "おおくらむら",
     "lat": "38.70416667",
     "lng": "140.2305556",
-    "url": "http://www.vill.ohkura.yamagata.jp/",
+    "url": "https://www.vill.ohkura.yamagata.jp/",
     "phrase": "むら美しく・人いきいき・キラリおおくら",
     "lgcode": "063657"
   },
@@ -4279,7 +4279,7 @@ const LOCALGOV_JP = [
     "citykana": "おぐにまち",
     "lat": "38.06138889",
     "lng": "139.7433333",
-    "url": "http://www.town.oguni.yamagata.jp/",
+    "url": "https://www.town.oguni.yamagata.jp/",
     "phrase": "人と自然が織りなす やさしい暮らしがあるまち “白い森の国おぐに”",
     "lgcode": "064017"
   },
@@ -4291,7 +4291,7 @@ const LOCALGOV_JP = [
     "citykana": "しらたかまち",
     "lat": "38.18305556",
     "lng": "140.0986111",
-    "url": "http://www.town.shirataka.lg.jp/",
+    "url": "https://www.town.shirataka.lg.jp/",
     "phrase": "笑顔かがやき 心かよう 美しいまち",
     "lgcode": "064025"
   },
@@ -4339,7 +4339,7 @@ const LOCALGOV_JP = [
     "citykana": "ゆざまち",
     "lat": "39.014836",
     "lng": "139.908662",
-    "url": "http://www.town.yuza.yamagata.jp/",
+    "url": "https://www.town.yuza.yamagata.jp/",
     "phrase": "安心とぬくもり 生きる喜び しあわせ空間 ゆざの創造",
     "lgcode": "064611"
   },
@@ -4399,7 +4399,7 @@ const LOCALGOV_JP = [
     "citykana": "しらかわし",
     "lat": "37.12638889",
     "lng": "140.2108333",
-    "url": "http://www.city.shirakawa.fukushima.jp/",
+    "url": "https://www.city.shirakawa.fukushima.jp/",
     "phrase": "人　文化　自然　ともに育む　のびゆく白河",
     "lgcode": "072052"
   },
@@ -4711,7 +4711,7 @@ const LOCALGOV_JP = [
     "citykana": "みしままち",
     "lat": "37.47027778",
     "lng": "139.6444444",
-    "url": "http://www.town.mishima.fukushima.jp/",
+    "url": "https://www.town.mishima.fukushima.jp/",
     "phrase": "桐の里会津三島町",
     "lgcode": "074446"
   },
@@ -4783,7 +4783,7 @@ const LOCALGOV_JP = [
     "citykana": "なかじまむら",
     "lat": "37.14861111",
     "lng": "140.3502778",
-    "url": "http://www.vill-nakajima.jp/",
+    "url": "https://www.vill-nakajima.jp/",
     "phrase": "豊かさを実感できる村　未来に贈ろう緑豊かな田園景観～住みよい・やすらぎ・花の郷～",
     "lgcode": "074659"
   },
@@ -4795,7 +4795,7 @@ const LOCALGOV_JP = [
     "citykana": "やぶきまち",
     "lat": "37.20111111",
     "lng": "140.3386111",
-    "url": "http://www.town.yabuki.fukushima.jp/",
+    "url": "https://www.town.yabuki.fukushima.jp/",
     "phrase": "～みんなで支え創造する私のふるさと～　さわやかな田園のまち・やぶき",
     "lgcode": "074667"
   },
@@ -4819,7 +4819,7 @@ const LOCALGOV_JP = [
     "citykana": "やまつりまち",
     "lat": "36.87138889",
     "lng": "140.4247222",
-    "url": "http://www.town.yamatsuri.fukushima.jp/",
+    "url": "https://www.town.yamatsuri.fukushima.jp/",
     "phrase": "奥州みちのくの旅は ここから始まる。　元気な子どもの声が聞こえるまちづくり",
     "lgcode": "074829"
   },
@@ -4831,7 +4831,7 @@ const LOCALGOV_JP = [
     "citykana": "はなわまち",
     "lat": "36.95722222",
     "lng": "140.4097222",
-    "url": "http://www.town.hanawa.fukushima.jp/",
+    "url": "https://www.town.hanawa.fukushima.jp/",
     "phrase": "人と自然、文化がふれあう夢のあるまち・はなわ",
     "lgcode": "074837"
   },
@@ -5155,7 +5155,7 @@ const LOCALGOV_JP = [
     "citykana": "じょうそうし",
     "lat": "36.02361111",
     "lng": "139.9938889",
-    "url": "http://www.city.joso.lg.jp/",
+    "url": "https://www.city.joso.lg.jp/",
     "phrase": "健やかにひとを育み、みどり豊かなまちづくり",
     "lgcode": "082112"
   },
@@ -5167,7 +5167,7 @@ const LOCALGOV_JP = [
     "citykana": "ひたちおおたし",
     "lat": "36.53833333",
     "lng": "140.5311111",
-    "url": "http://www.city.hitachiota.ibaraki.jp/",
+    "url": "https://www.city.hitachiota.ibaraki.jp/",
     "phrase": "自然・歴史を活かし、人・地域がかがやく協働のまち",
     "lgcode": "082121"
   },
@@ -5335,7 +5335,7 @@ const LOCALGOV_JP = [
     "citykana": "ばんどうし",
     "lat": "36.04833333",
     "lng": "139.8888889",
-    "url": "http://www.city.bando.lg.jp/",
+    "url": "https://www.city.bando.lg.jp/",
     "phrase": "人と自然がおりなす活力・安心・協働にみちた坂東市",
     "lgcode": "082287"
   },
@@ -5575,7 +5575,7 @@ const LOCALGOV_JP = [
     "citykana": "とねまち",
     "lat": "35.85777778",
     "lng": "140.1394444",
-    "url": "http://www.town.tone.ibaraki.jp/",
+    "url": "https://www.town.tone.ibaraki.jp/",
     "phrase": "みんなの笑顔が輝くまち！",
     "lgcode": "085642"
   },
@@ -5875,7 +5875,7 @@ const LOCALGOV_JP = [
     "citykana": "なかがわまち",
     "lat": "36.736223",
     "lng": "140.17282",
-    "url": "http://www.town.tochigi-nakagawa.lg.jp/",
+    "url": "https://www.town.tochigi-nakagawa.lg.jp/",
     "phrase": "豊かな自然と文化にはぐくまれ　やさしさと活力に満ちたまちづくり",
     "lgcode": "094111"
   },
@@ -6031,7 +6031,7 @@ const LOCALGOV_JP = [
     "citykana": "しんとうむら",
     "lat": "36.438647",
     "lng": "138.967118",
-    "url": "http://www.vill.shinto.gunma.jp/",
+    "url": "https://www.vill.shinto.gunma.jp/",
     "phrase": "四季元気 あったか榛東　「豊かさを実感し夢と感動を創造する村・榛東」－村民の知恵と協働による自立した村－",
     "lgcode": "103446"
   },
@@ -6487,7 +6487,7 @@ const LOCALGOV_JP = [
     "citykana": "ちちぶし",
     "lat": "35.99166667",
     "lng": "139.0855556",
-    "url": "http://www.city.chichibu.lg.jp/",
+    "url": "https://www.city.chichibu.lg.jp/",
     "phrase": "環境立市 秩父　緑風と走ろう 癒しの里 ちちぶ",
     "lgcode": "112071"
   },
@@ -6547,7 +6547,7 @@ const LOCALGOV_JP = [
     "citykana": "ひがしまつやまし",
     "lat": "36.04222222",
     "lng": "139.4",
-    "url": "http://www.city.higashimatsuyama.lg.jp/",
+    "url": "https://www.city.higashimatsuyama.lg.jp/",
     "phrase": "安心できる暮らしと　豊かな自然を大切にしたまち",
     "lgcode": "112127"
   },
@@ -6607,7 +6607,7 @@ const LOCALGOV_JP = [
     "citykana": "ふかやし",
     "lat": "36.1975",
     "lng": "139.2813889",
-    "url": "http://www.city.fukaya.saitama.jp/",
+    "url": "https://www.city.fukaya.saitama.jp/",
     "phrase": "夢を育み　明日（あす）に飛翔（ひしょう）する　笑顔都市　ふかや",
     "lgcode": "112186"
   },
@@ -6631,7 +6631,7 @@ const LOCALGOV_JP = [
     "citykana": "そうかし",
     "lat": "35.82555556",
     "lng": "139.8055556",
-    "url": "http://www.city.soka.saitama.jp/",
+    "url": "https://www.city.soka.saitama.jp/",
     "phrase": "快適都市　誇れるふるさと草加の創造",
     "lgcode": "112216"
   },
@@ -6679,7 +6679,7 @@ const LOCALGOV_JP = [
     "citykana": "いるまし",
     "lat": "35.83583333",
     "lng": "139.3911111",
-    "url": "http://www.city.iruma.saitama.jp/",
+    "url": "https://www.city.iruma.saitama.jp/",
     "phrase": "香り豊かな緑の文化都市",
     "lgcode": "112259"
   },
@@ -6715,7 +6715,7 @@ const LOCALGOV_JP = [
     "citykana": "わこうし",
     "lat": "35.78138889",
     "lng": "139.6058333",
-    "url": "http://www.city.wako.lg.jp/",
+    "url": "https://www.city.wako.lg.jp/",
     "phrase": "みどり豊かな人間都市、和光",
     "lgcode": "112291"
   },
@@ -6799,7 +6799,7 @@ const LOCALGOV_JP = [
     "citykana": "みさとし",
     "lat": "35.83027778",
     "lng": "139.8725",
-    "url": "http://www.city.misato.lg.jp/",
+    "url": "https://www.city.misato.lg.jp/",
     "phrase": "きらりとひかる田園都市みさと～人にも企業にも選ばれる魅力的なまち～",
     "lgcode": "112372"
   },
@@ -6895,7 +6895,7 @@ const LOCALGOV_JP = [
     "citykana": "しらおかし",
     "lat": "36.01888889",
     "lng": "139.6769444",
-    "url": "http://www.city.shiraoka.lg.jp/",
+    "url": "https://www.city.shiraoka.lg.jp/",
     "phrase": "ほっとスマイル しらおか 未来へつながるまち ～うるおいとやすらぎの生活未来都市～",
     "lgcode": "112461"
   },
@@ -6931,7 +6931,7 @@ const LOCALGOV_JP = [
     "citykana": "もろやままち",
     "lat": "35.94166667",
     "lng": "139.3161111",
-    "url": "http://www.town.moroyama.saitama.jp/www/index.html",
+    "url": "https://www.town.moroyama.saitama.jp/www/index.html",
     "phrase": "緑とふれあいの文化都市　もろやま",
     "lgcode": "113263"
   },
@@ -6943,7 +6943,7 @@ const LOCALGOV_JP = [
     "citykana": "おごせまち",
     "lat": "35.96444444",
     "lng": "139.2941667",
-    "url": "http://www.town.ogose.saitama.jp/",
+    "url": "https://www.town.ogose.saitama.jp/",
     "phrase": "みどりとせせらぎのまち・おごせ～自然と育む ひと・まち・くらし",
     "lgcode": "113271"
   },
@@ -7015,7 +7015,7 @@ const LOCALGOV_JP = [
     "citykana": "はとやままち",
     "lat": "35.98166667",
     "lng": "139.3341667",
-    "url": "http://www.town.hatoyama.saitama.jp/",
+    "url": "https://www.town.hatoyama.saitama.jp/",
     "phrase": "環のまち はとやま　～花と木と笑顔でつなぐ、安心で魅力的なまち～",
     "lgcode": "113484"
   },
@@ -7063,7 +7063,7 @@ const LOCALGOV_JP = [
     "citykana": "ながとろまち",
     "lat": "36.11472222",
     "lng": "139.11",
-    "url": "http://www.town.nagatoro.saitama.jp/",
+    "url": "https://www.town.nagatoro.saitama.jp/",
     "phrase": "はつらつ長瀞",
     "lgcode": "113638"
   },
@@ -7123,7 +7123,7 @@ const LOCALGOV_JP = [
     "citykana": "かみさとまち",
     "lat": "36.25194444",
     "lng": "139.1447222",
-    "url": "http://www.town.kamisato.saitama.jp/",
+    "url": "https://www.town.kamisato.saitama.jp/",
     "phrase": "人と自然が響きあう“ハーモニーガーデン上里”",
     "lgcode": "113859"
   },
@@ -8155,7 +8155,7 @@ const LOCALGOV_JP = [
     "citykana": "かつしかく",
     "lat": "35.74333333",
     "lng": "139.8472222",
-    "url": "http://www.city.katsushika.lg.jp/",
+    "url": "https://www.city.katsushika.lg.jp/",
     "phrase": "水と緑ゆたかな心ふれあう住みよいまち",
     "lgcode": "131229"
   },
@@ -8203,7 +8203,7 @@ const LOCALGOV_JP = [
     "citykana": "むさしのし",
     "lat": "35.71777778",
     "lng": "139.5661111",
-    "url": "http://www.city.musashino.lg.jp/",
+    "url": "https://www.city.musashino.lg.jp/",
     "phrase": "―都市の窓を開こう、新しい家族を育てよう、持続可能な社会をつくろう―",
     "lgcode": "132039"
   },
@@ -8335,7 +8335,7 @@ const LOCALGOV_JP = [
     "citykana": "こくぶんじし",
     "lat": "35.71083333",
     "lng": "139.4622222",
-    "url": "http://www.city.kokubunji.tokyo.jp/",
+    "url": "https://www.city.kokubunji.tokyo.jp/",
     "phrase": "緑あふれる武蔵野の、天平の史跡のまち　健康で文化的な都市－住み続けたいまち、ふるさと国分寺－",
     "lgcode": "132144"
   },
@@ -8527,7 +8527,7 @@ const LOCALGOV_JP = [
     "citykana": "おくたままち",
     "lat": "35.80972222",
     "lng": "139.0963889",
-    "url": "http://www.town.okutama.tokyo.jp/",
+    "url": "https://www.town.okutama.tokyo.jp/",
     "phrase": "巨樹と清流のまち、おくたま",
     "lgcode": "133086"
   },
@@ -8623,7 +8623,7 @@ const LOCALGOV_JP = [
     "citykana": "あおがしまむら",
     "lat": "32.46694444",
     "lng": "139.7633333",
-    "url": "http://www.vill.aogashima.tokyo.jp/",
+    "url": "https://www.vill.aogashima.tokyo.jp/",
     "phrase": "心あたたか元気な青ヶ島・21世紀ユートピア丸青ヶ島を目指して",
     "lgcode": "134023"
   },
@@ -9103,7 +9103,7 @@ const LOCALGOV_JP = [
     "citykana": "みうらし",
     "lat": "35.14416667",
     "lng": "139.6205556",
-    "url": "http://www.city.miura.kanagawa.jp/",
+    "url": "https://www.city.miura.kanagawa.jp/",
     "phrase": "人・まち・自然の鼓動を感じる都市　みうら",
     "lgcode": "142107"
   },
@@ -9139,7 +9139,7 @@ const LOCALGOV_JP = [
     "citykana": "やまとし",
     "lat": "35.4875",
     "lng": "139.4580556",
-    "url": "http://www.city.yamato.lg.jp/",
+    "url": "https://www.city.yamato.lg.jp/",
     "phrase": "健康創造都市　やまと",
     "lgcode": "142131"
   },
@@ -9247,7 +9247,7 @@ const LOCALGOV_JP = [
     "citykana": "にのみやまち",
     "lat": "35.29944444",
     "lng": "139.2552778",
-    "url": "http://www.town.ninomiya.kanagawa.jp/",
+    "url": "https://www.town.ninomiya.kanagawa.jp/",
     "phrase": "海と山とやさしさと みんな大好き 湘南にのみや　みどりと優しさと勇気あふれる町 湘南にのみや",
     "lgcode": "143421"
   },
@@ -9691,7 +9691,7 @@ const LOCALGOV_JP = [
     "citykana": "みなみうおぬまし",
     "lat": "37.06555556",
     "lng": "138.8761111",
-    "url": "http://www.city.minamiuonuma.niigata.jp/",
+    "url": "https://www.city.minamiuonuma.niigata.jp/",
     "phrase": "自然・人・産業の和で築く 安心のまち",
     "lgcode": "152269"
   },
@@ -9715,7 +9715,7 @@ const LOCALGOV_JP = [
     "citykana": "せいろうまち",
     "lat": "37.97444444",
     "lng": "139.2744444",
-    "url": "http://www.town.seiro.niigata.jp/",
+    "url": "https://www.town.seiro.niigata.jp/",
     "phrase": "緑・ふれあい・夢づくり ～協働による町民自治の実現～",
     "lgcode": "153079"
   },
@@ -9799,7 +9799,7 @@ const LOCALGOV_JP = [
     "citykana": "かりわむら",
     "lat": "37.42222222",
     "lng": "138.6225",
-    "url": "http://www.vill.kariwa.niigata.jp/www/index.jsp",
+    "url": "https://www.vill.kariwa.niigata.jp/www/index.jsp",
     "phrase": "～笑顔の村 かりわ～",
     "lgcode": "155047"
   },
@@ -9823,7 +9823,7 @@ const LOCALGOV_JP = [
     "citykana": "あわしまうらむら",
     "lat": "38.46833333",
     "lng": "139.2547222",
-    "url": "http://www.vill.awashimaura.lg.jp/",
+    "url": "https://www.vill.awashimaura.lg.jp/",
     "phrase": "活力と潤いのある村・・・粟島",
     "lgcode": "155861"
   },
@@ -9919,7 +9919,7 @@ const LOCALGOV_JP = [
     "citykana": "おやべし",
     "lat": "36.67555556",
     "lng": "136.8686111",
-    "url": "http://www.city.oyabe.toyama.jp/",
+    "url": "https://www.city.oyabe.toyama.jp/",
     "phrase": "魅力・安心・充実　しあわせ　おやべ",
     "lgcode": "162094"
   },
@@ -10171,7 +10171,7 @@ const LOCALGOV_JP = [
     "citykana": "うちなだまち",
     "lat": "36.65361111",
     "lng": "136.645",
-    "url": "http://www.town.uchinada.lg.jp/webapps/www/index.jsp",
+    "url": "https://www.town.uchinada.lg.jp/webapps/www/index.jsp",
     "phrase": "人がいきいき　まちが元気　個性が輝く魅力あるまち　うちなだ",
     "lgcode": "173657"
   },
@@ -10315,7 +10315,7 @@ const LOCALGOV_JP = [
     "citykana": "あわらし",
     "lat": "36.21138889",
     "lng": "136.2288889",
-    "url": "http://www.city.awara.lg.jp/",
+    "url": "https://www.city.awara.lg.jp/",
     "phrase": "ゆうゆうと 人が輝く いやしと創作のまち",
     "lgcode": "182087"
   },
@@ -10495,7 +10495,7 @@ const LOCALGOV_JP = [
     "citykana": "おおつきし",
     "lat": "35.61055556",
     "lng": "138.94",
-    "url": "http://www.city.otsuki.yamanashi.jp/",
+    "url": "https://www.city.otsuki.yamanashi.jp/",
     "phrase": "緑とせせらぎと未来のまち　信頼と協働のまちづくり",
     "lgcode": "192066"
   },
@@ -10603,7 +10603,7 @@ const LOCALGOV_JP = [
     "citykana": "いちかわみさとちょう",
     "lat": "35.56527778",
     "lng": "138.5022222",
-    "url": "http://www.town.ichikawamisato.yamanashi.jp/",
+    "url": "https://www.town.ichikawamisato.yamanashi.jp/",
     "phrase": "やすらぎづくり　日本一の暮らしやすさを目指して",
     "lgcode": "193461"
   },
@@ -11287,7 +11287,7 @@ const LOCALGOV_JP = [
     "citykana": "ひらやむら",
     "lat": "35.32333333",
     "lng": "137.6302778",
-    "url": "http://hirayamura.jp/",
+    "url": "https://hirayamura.jp/",
     "phrase": "南信州・観光の村 平谷高原の里　歓びがゆきかう ぬくもりの里 ひらや",
     "lgcode": "204099"
   },
@@ -11299,7 +11299,7 @@ const LOCALGOV_JP = [
     "citykana": "ねばむら",
     "lat": "35.255296",
     "lng": "137.581784",
-    "url": "http://nebamura.jp/",
+    "url": "https://nebamura.jp/",
     "phrase": "緑とやすらぎの里 みなみ信州 根羽村　緑と自然を生かしゆとりと安らぎのある村づくり",
     "lgcode": "204102"
   },
@@ -11395,7 +11395,7 @@ const LOCALGOV_JP = [
     "citykana": "あげまつまち",
     "lat": "35.782187",
     "lng": "137.693235",
-    "url": "http://www.town.agematsu.nagano.jp/",
+    "url": "https://www.town.agematsu.nagano.jp/",
     "phrase": "ひのきの里・あげまつ　世界に誇る木曽檜 水と緑がいやす郷",
     "lgcode": "204226"
   },
@@ -11419,7 +11419,7 @@ const LOCALGOV_JP = [
     "citykana": "きそむら",
     "lat": "35.93638889",
     "lng": "137.7830556",
-    "url": "http://www.vill.kiso.nagano.jp/",
+    "url": "https://www.vill.kiso.nagano.jp/",
     "phrase": "木曽川の水が生まれる源流の里 信州木祖村",
     "lgcode": "204251"
   },
@@ -11431,7 +11431,7 @@ const LOCALGOV_JP = [
     "citykana": "おうたきむら",
     "lat": "35.80944444",
     "lng": "137.5511111",
-    "url": "http://www.vill.otaki.nagano.jp/",
+    "url": "https://www.vill.otaki.nagano.jp/",
     "phrase": "霊峰御嶽山の麓　水と緑のふるさと　現在（いま）を変えよう 未来をつくろう みんなの知恵で みんなで支えあう心の手による地域づくり",
     "lgcode": "204293"
   },
@@ -11539,7 +11539,7 @@ const LOCALGOV_JP = [
     "citykana": "まつかわむら",
     "lat": "36.42416667",
     "lng": "137.8544444",
-    "url": "http://www.vill.matsukawa.nagano.jp/",
+    "url": "https://www.vill.matsukawa.nagano.jp/",
     "phrase": "水清き　信州安曇野・松川村　みんなが主人公「未来へはばたく、光り輝く協働の村」",
     "lgcode": "204820"
   },
@@ -11575,7 +11575,7 @@ const LOCALGOV_JP = [
     "citykana": "さかきまち",
     "lat": "36.46194444",
     "lng": "138.1802778",
-    "url": "http://www.town.sakaki.nagano.jp/www/index.html",
+    "url": "https://www.town.sakaki.nagano.jp/www/index.html",
     "phrase": "ものづくりとやすらぎのまち　自律する個性あふれるまちづくりをめざして",
     "lgcode": "205214"
   },
@@ -11635,7 +11635,7 @@ const LOCALGOV_JP = [
     "citykana": "のざわおんせんむら",
     "lat": "36.92277778",
     "lng": "138.4405556",
-    "url": "http://www.vill.nozawaonsen.nagano.jp/",
+    "url": "https://www.vill.nozawaonsen.nagano.jp/",
     "phrase": "四季の自然に彩られた　ぬくもりの湯の郷・野沢温泉村",
     "lgcode": "205630"
   },
@@ -11659,7 +11659,7 @@ const LOCALGOV_JP = [
     "citykana": "おがわむら",
     "lat": "36.61694444",
     "lng": "137.9744444",
-    "url": "http://www.vill.ogawa.nagano.jp/",
+    "url": "https://www.vill.ogawa.nagano.jp/",
     "phrase": "豊かな自然…星のふる里 信州小川村",
     "lgcode": "205885"
   },
@@ -11983,7 +11983,7 @@ const LOCALGOV_JP = [
     "citykana": "たるいちょう",
     "lat": "35.366268",
     "lng": "136.537944",
-    "url": "http://www.town.tarui.lg.jp/",
+    "url": "https://www.town.tarui.lg.jp/",
     "phrase": "やさしさと活気あふれる　快適環境都市",
     "lgcode": "213616"
   },
@@ -11995,7 +11995,7 @@ const LOCALGOV_JP = [
     "citykana": "せきがはらちょう",
     "lat": "35.36527778",
     "lng": "136.4672222",
-    "url": "http://www.town.sekigahara.gifu.jp/",
+    "url": "https://www.town.sekigahara.gifu.jp/",
     "phrase": "歴史・自然・人とのふれあいのまち",
     "lgcode": "213624"
   },
@@ -12535,7 +12535,7 @@ const LOCALGOV_JP = [
     "citykana": "いずし",
     "lat": "34.97666667",
     "lng": "138.9469444",
-    "url": "http://www.city.izu.shizuoka.jp/",
+    "url": "https://www.city.izu.shizuoka.jp/",
     "phrase": "人あったか　まちいきいき　自然つやつや　伊豆市",
     "lgcode": "222224"
   },
@@ -12667,7 +12667,7 @@ const LOCALGOV_JP = [
     "citykana": "しみずちょう",
     "lat": "35.09916667",
     "lng": "138.9027778",
-    "url": "http://www.town.shimizu.shizuoka.jp/",
+    "url": "https://www.town.shimizu.shizuoka.jp/",
     "phrase": "笑顔があふれ ここちよく 住み続けたくなるまち・清水町",
     "lgcode": "223417"
   },
@@ -12691,7 +12691,7 @@ const LOCALGOV_JP = [
     "citykana": "おやまちょう",
     "lat": "35.36",
     "lng": "138.9875",
-    "url": "http://www.fuji-oyama.jp/index.html",
+    "url": "https://www.fuji-oyama.jp/index.html",
     "phrase": "富士をのぞむ 活気あふれる 交流のまち おやま",
     "lgcode": "223441"
   },
@@ -12703,7 +12703,7 @@ const LOCALGOV_JP = [
     "citykana": "よしだちょう",
     "lat": "34.77083333",
     "lng": "138.2519444",
-    "url": "http://www.town.yoshida.shizuoka.jp/",
+    "url": "https://www.town.yoshida.shizuoka.jp/",
     "phrase": "水と緑と花、えがおいっぱい 吉田町　人と人、心やすらぎ 健康で住みやすいまち 吉田町",
     "lgcode": "224243"
   },
@@ -12979,7 +12979,7 @@ const LOCALGOV_JP = [
     "citykana": "せとし",
     "lat": "35.22333333",
     "lng": "137.0841667",
-    "url": "http://www.city.seto.aichi.jp/",
+    "url": "https://www.city.seto.aichi.jp/",
     "phrase": "自然と伝統とやきもののまち　自立し、助けあって、市民が力を発揮している社会",
     "lgcode": "232041"
   },
@@ -13123,7 +13123,7 @@ const LOCALGOV_JP = [
     "citykana": "とこなめし",
     "lat": "34.88666667",
     "lng": "136.8325",
-    "url": "http://www.city.tokoname.aichi.jp/",
+    "url": "https://www.city.tokoname.aichi.jp/",
     "phrase": "世界に開かれた生活文化都市",
     "lgcode": "232165"
   },
@@ -13159,7 +13159,7 @@ const LOCALGOV_JP = [
     "citykana": "いなざわし",
     "lat": "35.24805556",
     "lng": "136.7802778",
-    "url": "http://www.city.inazawa.aichi.jp/",
+    "url": "https://www.city.inazawa.aichi.jp/",
     "phrase": "自然の恵みと心の豊かさ 人が輝く 文化創造都市",
     "lgcode": "232203"
   },
@@ -13183,7 +13183,7 @@ const LOCALGOV_JP = [
     "citykana": "とうかいし",
     "lat": "35.02305556",
     "lng": "136.9025",
-    "url": "http://www.city.tokai.aichi.jp/",
+    "url": "https://www.city.tokai.aichi.jp/",
     "phrase": "元気あふれる 快適都市　共に創る 安心 快適 いきいき都市",
     "lgcode": "232220"
   },
@@ -13291,7 +13291,7 @@ const LOCALGOV_JP = [
     "citykana": "たはらし",
     "lat": "34.66916667",
     "lng": "137.2636111",
-    "url": "http://www.city.tahara.aichi.jp/",
+    "url": "https://www.city.tahara.aichi.jp/",
     "phrase": "うるおいと活力のあるガーデンシティ　Wind&Wave 新しい風を起こし　時代の波を乗り切る。",
     "lgcode": "232319"
   },
@@ -13555,7 +13555,7 @@ const LOCALGOV_JP = [
     "citykana": "とうえいちょう",
     "lat": "35.07694444",
     "lng": "137.6977778",
-    "url": "http://www.town.toei.aichi.jp/",
+    "url": "https://www.town.toei.aichi.jp/",
     "phrase": "キラリと輝く 自立を育む 交流創造の郷",
     "lgcode": "235628"
   },
@@ -13771,7 +13771,7 @@ const LOCALGOV_JP = [
     "citykana": "こものちょう",
     "lat": "35.02",
     "lng": "136.5075",
-    "url": "http://www2.town.komono.mie.jp/www/index.html",
+    "url": "https://www2.town.komono.mie.jp/www/index.html",
     "phrase": "響き合う人と自然が美しい都市（まち）　夢・ときめき・新しい時代（とき）を紡（つむ）ぐこころの都市（まち）・菰野",
     "lgcode": "243418"
   },
@@ -13783,7 +13783,7 @@ const LOCALGOV_JP = [
     "citykana": "あさひちょう",
     "lat": "35.03416667",
     "lng": "136.6644444",
-    "url": "http://www2.town.asahi.mie.jp/www/index.html",
+    "url": "https://www2.town.asahi.mie.jp/www/index.html",
     "phrase": "住みよさの魅力輝く歩みのまち",
     "lgcode": "243434"
   },
@@ -14083,7 +14083,7 @@ const LOCALGOV_JP = [
     "citykana": "ひのちょう",
     "lat": "35.01805556",
     "lng": "136.2461111",
-    "url": "http://www.town.shiga-hino.lg.jp/",
+    "url": "https://www.town.shiga-hino.lg.jp/",
     "phrase": "近江日野商人と花のまち　日野町",
     "lgcode": "253839"
   },
@@ -14491,7 +14491,7 @@ const LOCALGOV_JP = [
     "citykana": "いでちょう",
     "lat": "34.79861111",
     "lng": "135.8033333",
-    "url": "http://www.town.ide.kyoto.jp/",
+    "url": "https://www.town.ide.kyoto.jp/",
     "phrase": "自然・ロマン・人にやさしい井手の町　京都と奈良を結ぶ、井手の里。古と未来が交差する自然の美しいまち。",
     "lgcode": "263435"
   },
@@ -15055,7 +15055,7 @@ const LOCALGOV_JP = [
     "citykana": "たかつきし",
     "lat": "34.84611111",
     "lng": "135.6172222",
-    "url": "http://www.city.takatsuki.osaka.jp/",
+    "url": "https://www.city.takatsuki.osaka.jp/",
     "phrase": "さわやか未来　ふるさと高槻「心ふれあう　水とみどりの生活・文化都市」",
     "lgcode": "272078"
   },
@@ -15271,7 +15271,7 @@ const LOCALGOV_JP = [
     "citykana": "たかいしし",
     "lat": "34.52055556",
     "lng": "135.4422222",
-    "url": "http://www.city.takaishi.lg.jp/",
+    "url": "https://www.city.takaishi.lg.jp/",
     "phrase": "人間都市・高石　市民主体の やさしさと 活力あふれる “健幸”のまち",
     "lgcode": "272256"
   },
@@ -15343,7 +15343,7 @@ const LOCALGOV_JP = [
     "citykana": "おおさかさやまし",
     "lat": "34.50361111",
     "lng": "135.5555556",
-    "url": "http://www.city.osakasayama.osaka.jp/",
+    "url": "https://www.city.osakasayama.osaka.jp/",
     "phrase": "ふれあいが人をはぐくむ水の郷　日本一さわやかなまちをめざします。",
     "lgcode": "272311"
   },
@@ -15379,7 +15379,7 @@ const LOCALGOV_JP = [
     "citykana": "とよのちょう",
     "lat": "34.91888889",
     "lng": "135.4941667",
-    "url": "http://www.town.toyono.osaka.jp/",
+    "url": "https://www.town.toyono.osaka.jp/",
     "phrase": "人とみどりが輝くまち とよの",
     "lgcode": "273210"
   },
@@ -15427,7 +15427,7 @@ const LOCALGOV_JP = [
     "citykana": "たじりちょう",
     "lat": "34.39361111",
     "lng": "135.2911111",
-    "url": "http://www.town.tajiri.osaka.jp/",
+    "url": "https://www.town.tajiri.osaka.jp/",
     "phrase": "ひとが輝き、安心、温もり、魅力あるまち・たじり",
     "lgcode": "273627"
   },
@@ -15463,7 +15463,7 @@ const LOCALGOV_JP = [
     "citykana": "かなんちょう",
     "lat": "34.49166667",
     "lng": "135.6297222",
-    "url": "http://www.town.kanan.osaka.jp/",
+    "url": "https://www.town.kanan.osaka.jp/",
     "phrase": "豊かな自然と文化　ともに創る笑顔あふれる元気なまち",
     "lgcode": "273821"
   },
@@ -16039,7 +16039,7 @@ const LOCALGOV_JP = [
     "citykana": "かみごおりちょう",
     "lat": "34.87361111",
     "lng": "134.3561111",
-    "url": "http://www.town.kamigori.hyogo.jp/cms-sypher/www/index.jsp",
+    "url": "https://www.town.kamigori.hyogo.jp/cms-sypher/www/index.jsp",
     "phrase": "さわやかに歴史と未来の出逢うまち",
     "lgcode": "284815"
   },
@@ -16471,7 +16471,7 @@ const LOCALGOV_JP = [
     "citykana": "てんかわむら",
     "lat": "34.24194444",
     "lng": "135.8552778",
-    "url": "http://www.vill.tenkawa.nara.jp/",
+    "url": "https://www.vill.tenkawa.nara.jp/",
     "phrase": "奈良県吉野郡にある天川村のサイトです。天川村の紹介、観光情報、村政情報を掲載しています。",
     "lgcode": "294462"
   },
@@ -16531,7 +16531,7 @@ const LOCALGOV_JP = [
     "citykana": "かわかみむら",
     "lat": "34.33833333",
     "lng": "135.9544444",
-    "url": "http://www.vill.kawakami.nara.jp/",
+    "url": "https://www.vill.kawakami.nara.jp/",
     "phrase": "水源地のむらづくり『樹と水と人の共生』",
     "lgcode": "294527"
   },
@@ -16555,7 +16555,7 @@ const LOCALGOV_JP = [
     "citykana": "わかやまし",
     "lat": "34.23055556",
     "lng": "135.1708333",
-    "url": "http://www.city.wakayama.wakayama.jp/",
+    "url": "https://www.city.wakayama.wakayama.jp/",
     "phrase": "海、山、川、まち みんなで磨く 元気わかやま市",
     "lgcode": "302015"
   },
@@ -16603,7 +16603,7 @@ const LOCALGOV_JP = [
     "citykana": "ごぼうし",
     "lat": "33.89138889",
     "lng": "135.1525",
-    "url": "http://www.city.gobo.wakayama.jp/",
+    "url": "https://www.city.gobo.wakayama.jp/",
     "phrase": "人と自然と産業が調和し まちが輝き笑顔あふれる 元気な御坊",
     "lgcode": "302058"
   },
@@ -16711,7 +16711,7 @@ const LOCALGOV_JP = [
     "citykana": "ゆあさちょう",
     "lat": "34.029418",
     "lng": "135.190427",
-    "url": "http://www.town.yuasa.wakayama.jp/",
+    "url": "https://www.town.yuasa.wakayama.jp/",
     "phrase": "誇れる郷土をともに創造 安心安全のまち 湯浅 ～これからも もっとずっとゆあさ～",
     "lgcode": "303615"
   },
@@ -16819,7 +16819,7 @@ const LOCALGOV_JP = [
     "citykana": "しらはまちょう",
     "lat": "33.67805556",
     "lng": "135.3480556",
-    "url": "http://www.town.shirahama.wakayama.jp/",
+    "url": "https://www.town.shirahama.wakayama.jp/",
     "phrase": "輝きとやすらぎと交流のまち白浜",
     "lgcode": "304018"
   },
@@ -16963,7 +16963,7 @@ const LOCALGOV_JP = [
     "citykana": "いわみちょう",
     "lat": "35.57583333",
     "lng": "134.3319444",
-    "url": "http://www.iwami.gr.jp/",
+    "url": "https://www.iwami.gr.jp/",
     "phrase": "人が輝（かがや）き　海輝（ひか）る　きらめきつづけるまち岩美　～“心・自然・恵み”豊かさを未来へ～",
     "lgcode": "313025"
   },
@@ -17047,7 +17047,7 @@ const LOCALGOV_JP = [
     "citykana": "ほくえいちょう",
     "lat": "35.49",
     "lng": "133.7586111",
-    "url": "http://www.e-hokuei.net/",
+    "url": "https://www.e-hokuei.net/",
     "phrase": "やさしい風のふくまち 北栄町　～人と自然が共生し 確かな豊かさを実感するまち～",
     "lgcode": "313726"
   },
@@ -17299,7 +17299,7 @@ const LOCALGOV_JP = [
     "citykana": "つわのちょう",
     "lat": "34.541961",
     "lng": "131.83508",
-    "url": "http://www.town.tsuwano.lg.jp/",
+    "url": "https://www.town.tsuwano.lg.jp/",
     "phrase": "人と自然に育まれ温もりのある交流のまちづくり",
     "lgcode": "325015"
   },
@@ -17479,7 +17479,7 @@ const LOCALGOV_JP = [
     "citykana": "いばらし",
     "lat": "34.59777778",
     "lng": "133.4638889",
-    "url": "http://www.city.ibara.okayama.jp/",
+    "url": "https://www.city.ibara.okayama.jp/",
     "phrase": "美しい自然　息づく文化　笑顔でつながるひと　元気発信都市いばら",
     "lgcode": "332071"
   },
@@ -17611,7 +17611,7 @@ const LOCALGOV_JP = [
     "citykana": "はやしまちょう",
     "lat": "34.60055556",
     "lng": "133.8283333",
-    "url": "http://www.town.hayashima.lg.jp/",
+    "url": "https://www.town.hayashima.lg.jp/",
     "phrase": "風格ある往来ロマンのまち早島　高福祉社会のオアシス都市",
     "lgcode": "334235"
   },
@@ -17659,7 +17659,7 @@ const LOCALGOV_JP = [
     "citykana": "かがみのちょう",
     "lat": "35.09194444",
     "lng": "133.9330556",
-    "url": "http://www.town.kagamino.lg.jp/",
+    "url": "https://www.town.kagamino.lg.jp/",
     "phrase": "森といで湯と田園文化の里",
     "lgcode": "336068"
   },
@@ -17947,7 +17947,7 @@ const LOCALGOV_JP = [
     "citykana": "おおたけし",
     "lat": "34.23805556",
     "lng": "132.2222222",
-    "url": "http://www.city.otake.hiroshima.jp/",
+    "url": "https://www.city.otake.hiroshima.jp/",
     "phrase": "笑顔・元気　かがやく大竹",
     "lgcode": "342114"
   },
@@ -18055,7 +18055,7 @@ const LOCALGOV_JP = [
     "citykana": "あきおおたちょう",
     "lat": "34.57666667",
     "lng": "132.2269444",
-    "url": "http://www.akiota.jp/",
+    "url": "https://www.akiota.jp/",
     "phrase": "西中国山地に抱かれた　暮らし・交流・元気のまち",
     "lgcode": "343684"
   },
@@ -18115,7 +18115,7 @@ const LOCALGOV_JP = [
     "citykana": "しものせきし",
     "lat": "33.95777778",
     "lng": "130.9413889",
-    "url": "http://www.city.shimonoseki.lg.jp/www/toppage/0000000000000/APM03000.html",
+    "url": "https://www.city.shimonoseki.lg.jp/www/toppage/0000000000000/APM03000.html",
     "phrase": "自然と歴史と人が織りなす交流都市",
     "lgcode": "352012"
   },
@@ -18319,7 +18319,7 @@ const LOCALGOV_JP = [
     "citykana": "ひらおちょう",
     "lat": "33.93805556",
     "lng": "132.0733333",
-    "url": "http://www.town.hirao.lg.jp/",
+    "url": "https://www.town.hirao.lg.jp/",
     "phrase": "響きあうまち平生　人とまち「きずな」でつなぐ 元気な平生",
     "lgcode": "353442"
   },
@@ -18331,7 +18331,7 @@ const LOCALGOV_JP = [
     "citykana": "あぶちょう",
     "lat": "34.50333333",
     "lng": "131.4711111",
-    "url": "http://www.town.abu.lg.jp/",
+    "url": "https://www.town.abu.lg.jp/",
     "phrase": "夢と笑顔あふれる「豊かで住みよい文化の町」",
     "lgcode": "355020"
   },
@@ -18763,7 +18763,7 @@ const LOCALGOV_JP = [
     "citykana": "なおしまちょう",
     "lat": "34.46",
     "lng": "133.9955556",
-    "url": "http://www.town.naoshima.lg.jp/",
+    "url": "https://www.town.naoshima.lg.jp/",
     "phrase": "瀬戸内海から世界へ　自然と文化と環境の島　明日を拓く直島町",
     "lgcode": "373648"
   },
@@ -18871,7 +18871,7 @@ const LOCALGOV_JP = [
     "citykana": "やわたはまし",
     "lat": "33.46305556",
     "lng": "132.4233333",
-    "url": "http://www.city.yawatahama.ehime.jp/",
+    "url": "https://www.city.yawatahama.ehime.jp/",
     "phrase": "いま共に育む進取のまちづくり　風とらえ風おこす",
     "lgcode": "382043"
   },
@@ -19219,7 +19219,7 @@ const LOCALGOV_JP = [
     "citykana": "なはりちょう",
     "lat": "33.42416667",
     "lng": "134.0211111",
-    "url": "http://www.town.nahari.kochi.jp/",
+    "url": "https://www.town.nahari.kochi.jp/",
     "phrase": "豊かで明るい町・奈半利町　人を大切にする心が町と人をつないでいく。",
     "lgcode": "393029"
   },
@@ -19291,7 +19291,7 @@ const LOCALGOV_JP = [
     "citykana": "もとやまちょう",
     "lat": "33.75694444",
     "lng": "133.5916667",
-    "url": "http://www.town.motoyama.kochi.jp/",
+    "url": "https://www.town.motoyama.kochi.jp/",
     "phrase": "水と緑、花と文化のまち、本山町",
     "lgcode": "393410"
   },
@@ -19303,7 +19303,7 @@ const LOCALGOV_JP = [
     "citykana": "おおとよちょう",
     "lat": "33.768594",
     "lng": "133.642959",
-    "url": "http://www.town.otoyo.kochi.jp/",
+    "url": "https://www.town.otoyo.kochi.jp/",
     "phrase": "四国山地の中央部　“ゆとりすとカントリーおおとよ”",
     "lgcode": "393444"
   },
@@ -19807,7 +19807,7 @@ const LOCALGOV_JP = [
     "citykana": "なかまし",
     "lat": "33.81666667",
     "lng": "130.7091667",
-    "url": "http://www.city.nakama.lg.jp/",
+    "url": "https://www.city.nakama.lg.jp/",
     "phrase": "元気な風がふくまち　なかま　～市民の元気がまちの元気～",
     "lgcode": "402150"
   },
@@ -19915,7 +19915,7 @@ const LOCALGOV_JP = [
     "citykana": "うきはし",
     "lat": "33.34722222",
     "lng": "130.755",
-    "url": "http://www.city.ukiha.fukuoka.jp/",
+    "url": "https://www.city.ukiha.fukuoka.jp/",
     "phrase": "郷土の魅力、未来へつなぐ心のふるさと",
     "lgcode": "402257"
   },
@@ -19951,7 +19951,7 @@ const LOCALGOV_JP = [
     "citykana": "あさくらし",
     "lat": "33.42333333",
     "lng": "130.6655556",
-    "url": "http://www.city.asakura.lg.jp/www/toppage/0000000000000/APM03000.html",
+    "url": "https://www.city.asakura.lg.jp/www/toppage/0000000000000/APM03000.html",
     "phrase": "水を育み 街を潤す 健康文化都市の創造",
     "lgcode": "402281"
   },
@@ -20119,7 +20119,7 @@ const LOCALGOV_JP = [
     "citykana": "おんがちょう",
     "lat": "33.84805556",
     "lng": "130.6683333",
-    "url": "http://www.town.onga.lg.jp/",
+    "url": "https://www.town.onga.lg.jp/",
     "phrase": "水と緑の町 おんが　の～んびり遠賀 ～豊かな故郷をめざして～",
     "lgcode": "403849"
   },
@@ -20251,7 +20251,7 @@ const LOCALGOV_JP = [
     "citykana": "いとだまち",
     "lat": "33.65277778",
     "lng": "130.7791667",
-    "url": "http://www.town.itoda.lg.jp/",
+    "url": "https://www.town.itoda.lg.jp/",
     "phrase": "人と自然が親しむ 心やすらぐまち　清らかに湧く秘泉 豊かに広がる稲田 漂泊の俳人を癒した 心のふるさと・いとだ",
     "lgcode": "406040"
   },
@@ -20695,7 +20695,7 @@ const LOCALGOV_JP = [
     "citykana": "つしまし",
     "lat": "34.20277778",
     "lng": "129.2875",
-    "url": "http://www.city.tsushima.nagasaki.jp/",
+    "url": "https://www.city.tsushima.nagasaki.jp/",
     "phrase": "アジアに発信する歴史海道都市 対馬　！（おっ）な島です。対馬",
     "lgcode": "422096"
   },
@@ -20791,7 +20791,7 @@ const LOCALGOV_JP = [
     "citykana": "ひがしそのぎちょう",
     "lat": "33.03694444",
     "lng": "129.9172222",
-    "url": "http://www.sonogi.jp/",
+    "url": "https://www.sonogi.jp/",
     "phrase": "お茶とみかんとくじらの町",
     "lgcode": "423211"
   },
@@ -21055,7 +21055,7 @@ const LOCALGOV_JP = [
     "citykana": "あそし",
     "lat": "32.95222222",
     "lng": "131.1213889",
-    "url": "http://www.city.aso.kumamoto.jp/",
+    "url": "https://www.city.aso.kumamoto.jp/",
     "phrase": "「緑いきづく火の神の里」～豊かな自然と笑顔あふれる国際環境観光都市を目指して～",
     "lgcode": "432148"
   },
@@ -21199,7 +21199,7 @@ const LOCALGOV_JP = [
     "citykana": "うぶやまむら",
     "lat": "32.99555556",
     "lng": "131.2169444",
-    "url": "http://www.ubuyama-v.jp/",
+    "url": "https://www.ubuyama-v.jp/",
     "phrase": "「ヒゴタイの里 うぶやま 住んでみたいむらづくり」 ―人・自然・協働―",
     "lgcode": "434256"
   },
@@ -21607,7 +21607,7 @@ const LOCALGOV_JP = [
     "citykana": "ゆふし",
     "lat": "33.18",
     "lng": "131.4266667",
-    "url": "http://www.city.yufu.oita.jp/",
+    "url": "https://www.city.yufu.oita.jp/",
     "phrase": "地域自治を大切にした 住み良さ日本一のまち・由布市",
     "lgcode": "442135"
   },
@@ -21727,7 +21727,7 @@ const LOCALGOV_JP = [
     "citykana": "こばやしし",
     "lat": "31.99666667",
     "lng": "130.9727778",
-    "url": "http://www.city.kobayashi.lg.jp/",
+    "url": "https://www.city.kobayashi.lg.jp/",
     "phrase": "霧島の麓に人・産業・歴史・自然が息吹き、元気あふれる交流都市　小林市",
     "lgcode": "452050"
   },
@@ -21811,7 +21811,7 @@ const LOCALGOV_JP = [
     "citykana": "くにとみちょう",
     "lat": "31.99055556",
     "lng": "131.3236111",
-    "url": "http://www.town.kunitomi.miyazaki.jp/",
+    "url": "https://www.town.kunitomi.miyazaki.jp/",
     "phrase": "情熱・創造・躍動みなぎる健康田園都市　iハートくにとみ",
     "lgcode": "453820"
   },
@@ -21871,7 +21871,7 @@ const LOCALGOV_JP = [
     "citykana": "きじょうちょう",
     "lat": "32.16388889",
     "lng": "131.4733333",
-    "url": "http://www.town.kijo.lg.jp/",
+    "url": "https://www.town.kijo.lg.jp/",
     "phrase": "太陽と水と緑　エネルギッシュで明るい町　木城",
     "lgcode": "454044"
   },
@@ -21967,7 +21967,7 @@ const LOCALGOV_JP = [
     "citykana": "ひのかげちょう",
     "lat": "32.659465",
     "lng": "131.380909",
-    "url": "http://www.town.hinokage.lg.jp/",
+    "url": "https://www.town.hinokage.lg.jp/",
     "phrase": "自然の恵みが人を呼ぶ里",
     "lgcode": "454427"
   },
@@ -22063,7 +22063,7 @@ const LOCALGOV_JP = [
     "citykana": "にしのおもてし",
     "lat": "30.7325",
     "lng": "130.9975",
-    "url": "http://www.city.nishinoomote.lg.jp/",
+    "url": "https://www.city.nishinoomote.lg.jp/",
     "phrase": "絆（きずな）で創（つく）る、魅力（みりょく）あふれる豊（ゆた）かなまち",
     "lgcode": "462136"
   },
@@ -22147,7 +22147,7 @@ const LOCALGOV_JP = [
     "citykana": "みなみさつまし",
     "lat": "31.41666667",
     "lng": "130.3233333",
-    "url": "http://www.city.minamisatsuma.lg.jp/",
+    "url": "https://www.city.minamisatsuma.lg.jp/",
     "phrase": "地域躍動・きらめく「南さつま」～自然・人・文化を育み、みんなでつくる誇りとぬくもりのまち～",
     "lgcode": "462209"
   },
@@ -22363,7 +22363,7 @@ const LOCALGOV_JP = [
     "citykana": "やくしまちょう",
     "lat": "30.389893",
     "lng": "130.651119",
-    "url": "http://www.town.yakushima.kagoshima.jp/",
+    "url": "https://www.town.yakushima.kagoshima.jp/",
     "phrase": "悠久の流れの中で、自然と共に生きる知恵と多様な集落の文化がとけあい、人々の営みが循環・持続していくまち",
     "lgcode": "465054"
   },
@@ -22555,7 +22555,7 @@ const LOCALGOV_JP = [
     "citykana": "なごし",
     "lat": "26.59166667",
     "lng": "127.9775",
-    "url": "http://www.city.nago.okinawa.jp/",
+    "url": "https://www.city.nago.okinawa.jp/",
     "phrase": "あけみおのまち名護市",
     "lgcode": "472093"
   },
@@ -22663,7 +22663,7 @@ const LOCALGOV_JP = [
     "citykana": "ひがしそん",
     "lat": "26.63333333",
     "lng": "128.1569444",
-    "url": "http://www.vill.higashi.okinawa.jp/index.jsp",
+    "url": "https://www.vill.higashi.okinawa.jp/index.jsp",
     "phrase": "花と水とパインの村",
     "lgcode": "473031"
   },
@@ -22687,7 +22687,7 @@ const LOCALGOV_JP = [
     "citykana": "もとぶちょう",
     "lat": "26.65805556",
     "lng": "127.8980556",
-    "url": "http://www.town.motobu.okinawa.jp/",
+    "url": "https://www.town.motobu.okinawa.jp/",
     "phrase": "太陽と海と緑－観光文化の町",
     "lgcode": "473081"
   },
@@ -22903,7 +22903,7 @@ const LOCALGOV_JP = [
     "citykana": "きただいとうそん",
     "lat": "25.94583333",
     "lng": "131.2988889",
-    "url": "http://vill.kitadaito.okinawa.jp/",
+    "url": "https://vill.kitadaito.okinawa.jp/",
     "phrase": "古来の伝説 うふあがり島　あけぼのの昇る北大東",
     "lgcode": "473588"
   },
@@ -22939,7 +22939,7 @@ const LOCALGOV_JP = [
     "citykana": "くめじまちょう",
     "lat": "26.34083333",
     "lng": "126.805",
-    "url": "http://www.town.kumejima.okinawa.jp/",
+    "url": "https://www.town.kumejima.okinawa.jp/",
     "phrase": "ラムサール条約登録の地　活力・潤い・文化を創造する元気なまち－久米島－",
     "lgcode": "473618"
   },
