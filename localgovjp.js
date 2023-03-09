@@ -3883,7 +3883,7 @@ const LOCALGOV_JP = [
     "citykana": "おおがたむら",
     "lat": "40.01777778",
     "lng": "139.96",
-    "url": "https://www.ogata.or.jp/",
+    "url": "https://www.vill.ogata.akita.jp/",
     "phrase": "農業と四季折々の自然が豊かな大潟村　日本最大の干拓地に広がる緑豊かな村　豊かな自然 みなぎる活力 人いきいき 元気な大潟村",
     "lgcode": "053686"
   },
@@ -4183,7 +4183,7 @@ const LOCALGOV_JP = [
     "citykana": "もがみまち",
     "lat": "38.75861111",
     "lng": "140.5194444",
-    "url": "https://mogami.tv/",
+    "url": "https://town.mogami.lg.jp/",
     "phrase": "歴史と温泉と緑の町　人が元気 地域が元気 産業が元気「キラリ輝く田園空間博物館の創造」　交流人口100万人をめざして",
     "lgcode": "063622"
   },
@@ -21343,7 +21343,7 @@ const LOCALGOV_JP = [
     "citykana": "にしきまち",
     "lat": "32.20111111",
     "lng": "130.8411111",
-    "url": "http://www.nishiki-machi.com/",
+    "url": "https://www.town.kumamoto-nishiki.lg.jp/",
     "phrase": "剣豪とフルーツの里",
     "lgcode": "435015"
   },
