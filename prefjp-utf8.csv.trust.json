@@ -1,0 +1,5 @@
+{
+  "alg": "ES256",
+  "publicKey": "f42ee1180b7d7c41105bd993f8ed7d78cd7127407690aa50d85b88baf06c91f1",
+  "signature": "c14fac8aeaf8af50fd00a1f4b15ebd4fa9e683ce25b6b89d53b92365da116a71cb44aab8864598b2a891a1b2b09115ff840dc2ddf1e30bed22a671ac162c870c"
+}

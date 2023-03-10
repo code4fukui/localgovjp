@@ -26,6 +26,13 @@ cd deno
 deno run -A make.js
 ```
 
+## how to verify
+
+verify by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/)
+```bash
+deno run -A https://code4fukui.github.io/opendata-with-trust/verifyTrust.js localgovjp-utf8.csv
+```
+
 ## sample app
 
 - [日本の都市数](https://code4fukui.github.io/localgovjp/)
