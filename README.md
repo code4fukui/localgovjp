@@ -18,12 +18,17 @@ list of local government in Japan
 
 ## how to update
 
-1. edit [deno/c-localgovjp-utf8.csv](deno/c-localgovjp-utf8.csv)
-2. run make.js with [Deno](https://deno.land/)
+with [Deno](https://deno.land/)
 
+1. make [deno/c-localgovjp-utf8.csv](deno/c-localgovjp-utf8.csv)
+```bash
+deno -A chk-localgov.js
+```
+1. check err and edit [deno/c-localgovjp-utf8.csv](deno/c-localgovjp-utf8.csv)
+2. run make.js
 ```bash
 cd deno
-deno run -A make.js
+deno -A make.js
 ```
 
 ## how to verify
@@ -58,6 +63,7 @@ deno run -A https://code4fukui.github.io/opendata-with-trust/verifyTrust.js loca
 - 2021-10-31 都道府県URL更新、ISO3155-2追加
 - 2021-11-01 市区町村URL更新、全国地方公共団体コード(lgcode)追加
 - 2023-03-09 市区町村URL更新
+- 2026-01-01 市区町村URL更新
 
 ## license
 
