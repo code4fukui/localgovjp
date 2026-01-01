@@ -22,20 +22,24 @@ with [Deno](https://deno.land/)
 
 1. make [deno/c-localgovjp-utf8.csv](deno/c-localgovjp-utf8.csv)
 ```bash
+cd deno
 deno -A chk-localgov.js
 ```
-1. check err and edit [deno/c-localgovjp-utf8.csv](deno/c-localgovjp-utf8.csv)
-2. run make.js
+3. check err and edit [deno/c-localgovjp-utf8.csv](deno/c-localgovjp-utf8.csv)
+3. make [localgovjp-utf8.csv](localgovjp-utf8.csv) / [localgovjp.json](localgovjp.json) / [localgovjp.js](localgovjp.js)
 ```bash
-cd deno
-deno -A make.js
+deno -A make-localgov.js
+```
+4. make trust by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/)
+```bash
+deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ https://code4fukui.github.io/opendata-with-trust/makeTrust.js ../localgovjp-utf8.csv [prikey]
 ```
 
 ## how to verify
 
 verify by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/)
 ```bash
-deno run -A https://code4fukui.github.io/opendata-with-trust/verifyTrust.js localgovjp-utf8.csv
+deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js localgovjp-utf8.csv
 ```
 
 ## sample app
