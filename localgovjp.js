@@ -7171,7 +7171,7 @@ const LOCALGOV_JP = [
     "citykana": "まつぶしまち",
     "lat": "35.92583333",
     "lng": "139.8152778",
-    "url": "http://www.town.matsubushi.lg.jp/",
+    "url": "https://www.town.matsubushi.lg.jp/",
     "phrase": "笑顔と夢が花咲く、緑あふれるみんなのまち！",
     "lgcode": "114651"
   },
