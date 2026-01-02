@@ -33,6 +33,7 @@ deno -A make-localgov.js
 4. make trust by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/)
 ```bash
 deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ https://code4fukui.github.io/opendata-with-trust/makeTrust.js ../localgovjp-utf8.csv [prikey]
+deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ https://code4fukui.github.io/opendata-with-trust/makeTrust.js ../localgovjp.json [prikey]
 ```
 
 ## how to verify
@@ -40,6 +41,7 @@ deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ http
 verify by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/)
 ```bash
 deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js localgovjp-utf8.csv
+deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js localgovjp.json
 ```
 
 ## sample app
