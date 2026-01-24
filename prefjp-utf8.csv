@@ -11,7 +11,7 @@ pid,pref,prefkana,prefshort,prefshortkana,pref_en,pref3code,url,lgcode,ISO3166-2
 10,群馬県,ぐんまけん,群馬,ぐんま,Gunma,GNM,https://www.pref.gunma.jp/,100005,JP-10,前橋市,36.391208,139.060156
 11,埼玉県,さいたまけん,埼玉,さいたま,Saitama,SIT,https://www.pref.saitama.lg.jp/,110001,JP-11,さいたま市,35.857428,139.648933
 12,千葉県,ちばけん,千葉,ちば,Chiba,CBA,https://www.pref.chiba.lg.jp/,120006,JP-12,千葉市,35.605058,140.123308
-13,東京都,とうきょうと,東京,とうきょう,Tokyo,TKY,https://www.metro.tokyo.lg.jp/,130001,JP-13,東京都（新宿区）,35.689521,139.691704
+13,東京都,とうきょうと,東京,とうきょう,Tokyo,TKY,https://www.metro.tokyo.lg.jp/,130001,JP-13,新宿区,35.689521,139.691704
 14,神奈川県,かながわけん,神奈川,かながわ,Kanagawa,KNG,https://www.pref.kanagawa.jp/,140007,JP-14,横浜市,35.447753,139.642514
 15,新潟県,にいがたけん,新潟,にいがた,Niigata,NIG,https://www.pref.niigata.lg.jp/,150002,JP-15,新潟市,37.902418,139.023221
 16,富山県,とやまけん,富山,とやま,Toyama,TYM,https://www.pref.toyama.jp/,160008,JP-16,富山市,36.695290,137.211338
