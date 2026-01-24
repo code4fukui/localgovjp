@@ -34,6 +34,7 @@ deno -A make-localgov.js
 ```bash
 deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ https://code4fukui.github.io/opendata-with-trust/makeTrust.js ../localgovjp-utf8.csv [prikey]
 deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ https://code4fukui.github.io/opendata-with-trust/makeTrust.js ../localgovjp.json [prikey]
+deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ https://code4fukui.github.io/opendata-with-trust/makeTrust.js ../prefjp-utf8.csv [prikey]
 ```
 
 ## how to verify
@@ -49,6 +50,7 @@ deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.gith
 - [日本の都市数](https://code4fukui.github.io/localgovjp/)
 - [日本の都道府県と市区町村のサイト一覧](https://code4fukui.github.io/localgovjp/list.html)
 - [全国役場マップ](https://code4fukui.github.io/localgovjp/map.html)
+- [日本の都道府県マップ](https://code4fukui.github.io/localgovjp/prefjp.html)
 
 ## data
 
