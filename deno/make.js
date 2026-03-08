@@ -48,7 +48,7 @@ export const make = async (fn, name, constname) => {
 //make("c-prefjp-utf8.csv", "prefjp", "PREF_JP");
 
 //chk("localgovjp-utf8.csv");
-make("c-localgovjp-utf8.csv", "localgovjp", "LOCALGOV_JP");
+//make("c-localgovjp-utf8.csv", "localgovjp", "LOCALGOV_JP");
 
 /*
 const res = await fetchWithTimeout("http://www.town.okushiri.lg.jp/");
