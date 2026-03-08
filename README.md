@@ -20,6 +20,8 @@ list of local government in Japan
 
 with [Deno](https://deno.land/)
 
+### localgov
+
 1. make [deno/c-localgovjp-utf8.csv](deno/c-localgovjp-utf8.csv)
 ```bash
 cd deno
@@ -30,11 +32,26 @@ deno -A chk-localgov.js
 ```bash
 deno -A make-localgov.js
 ```
-4. make trust by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/)
+4. make trust by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) need PRIKEY on .env
 ```bash
-deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ https://code4fukui.github.io/opendata-with-trust/makeTrust.js ../localgovjp-utf8.csv [prikey]
-deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ https://code4fukui.github.io/opendata-with-trust/makeTrust.js ../localgovjp.json [prikey]
-deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ https://code4fukui.github.io/opendata-with-trust/makeTrust.js ../prefjp-utf8.csv [prikey]
+deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ --allow-env --env-file sign-localgov.js
+```
+
+### pref
+
+1. make [deno/c-prefjp-utf8.csv](deno/c-prefjp-utf8.csv)
+```bash
+cd deno
+deno -A chk-pref.js
+```
+3. check err and edit [deno/c-prefjp-utf8.csv](deno/c-pref-utf8.csv)
+3. make [prefjp-utf8.csv](prefjp-utf8.csv) / [prefjp.json](prefjp.json) / [prefjp.js](prefjp.js)
+```bash
+deno -A make-pref.js
+```
+4. make trust by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) need PRIKEY on .env
+```bash
+deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ --allow-env --env-file sign-pref.js
 ```
 
 ## how to verify
@@ -43,6 +60,8 @@ verify by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/
 ```bash
 deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js localgovjp-utf8.csv
 deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js localgovjp.json
+deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js prefjp-utf8.csv
+deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js prefjp.json
 ```
 
 ## sample app
@@ -72,6 +91,7 @@ deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.gith
 - 2021-11-01 市区町村URL更新、全国地方公共団体コード(lgcode)追加
 - 2023-03-09 市区町村URL更新
 - 2026-01-01 市区町村URL更新
+- 2026-03-09 市区町村URL更新
 
 ## license
 
