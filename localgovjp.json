@@ -415,7 +415,7 @@
     "citykana": "たきかわし",
     "lat": "43.55772933",
     "lng": "141.9103899",
-    "url": "https://www.city.takikawa.hokkaido.jp/",
+    "url": "https://www.city.takikawa.lg.jp/",
     "phrase": "風がみつけた街…たきかわ　みんなでつくり みんなで育む 健康文化のまち",
     "lgcode": "012254"
   },
@@ -3703,7 +3703,7 @@
     "citykana": "かづのし",
     "lat": "40.21583333",
     "lng": "140.7883333",
-    "url": "https://www.city.kazuno.akita.jp/",
+    "url": "https://www.city.kazuno.lg.jp/",
     "phrase": "十八（とわ）の里 あんとら 鹿角（かづの）　出逢い 賑わい 夢をかなえるまち・鹿角",
     "lgcode": "052094"
   },
@@ -3835,7 +3835,7 @@
     "citykana": "はっぽうちょう",
     "lat": "40.31888889",
     "lng": "140.0386111",
-    "url": "https://www.town.happou.akita.jp/",
+    "url": "https://www.town.happo.lg.jp/",
     "phrase": "白神の自然と人とで創るやすらぎのまち",
     "lgcode": "053490"
   },
@@ -5587,7 +5587,7 @@
     "citykana": "うつのみやし",
     "lat": "36.55527778",
     "lng": "139.8827778",
-    "url": "https://www.city.utsunomiya.tochigi.jp/",
+    "url": "https://www.city.utsunomiya.lg.jp/",
     "phrase": "住めば愉快だ宇都宮　くらしいきいき まちキラキラ つながる人 ・ 夢のみや うつのみや",
     "lgcode": "092011"
   },
@@ -5995,7 +5995,7 @@
     "citykana": "とみおかし",
     "lat": "36.26",
     "lng": "138.89",
-    "url": "https://www.city.tomioka.lg.jp/www/toppage/0000000000000/APM03000.html",
+    "url": "https://www.city.tomioka.lg.jp/www/index.html",
     "phrase": "人と自然と歴史が織りなす豊かなまち とみおか",
     "lgcode": "102105"
   },
@@ -9679,7 +9679,7 @@
     "citykana": "うおぬまし",
     "lat": "37.236431",
     "lng": "138.963775",
-    "url": "https://www.city.uonuma.niigata.jp/",
+    "url": "https://www.city.uonuma.lg.jp/",
     "phrase": "人と四季がかがやく 雪のくに",
     "lgcode": "152251"
   },
@@ -12151,7 +12151,7 @@
     "citykana": "しらかわちょう",
     "lat": "35.58222222",
     "lng": "137.1883333",
-    "url": "https://www.town.shirakawa.lg.jp/",
+    "url": "https://www.vill.shirakawa.lg.jp/",
     "phrase": "水源の里の恵みいっぱい 活力みなぎる人たちが暮らすまち 美濃白川",
     "lgcode": "215066"
   },
@@ -12595,7 +12595,7 @@
     "citykana": "ひがしいずちょう",
     "lat": "34.77277778",
     "lng": "139.0413889",
-    "url": "https://www.town.higashiizu.shizuoka.jp/",
+    "url": "https://www.town.higashiizu.lg.jp/",
     "phrase": "日のいずる湯けむりの町　輝き・やすらぎ・集えるまち 東伊豆　みんなが安心して暮らせる町、笑顔があふれる町",
     "lgcode": "223018"
   },
@@ -14419,7 +14419,7 @@
     "citykana": "きょうたなべし",
     "lat": "34.81444444",
     "lng": "135.7677778",
-    "url": "https://www.kyotanabe.jp/",
+    "url": "https://www.city.kyotanabe.lg.jp/",
     "phrase": "緑豊かで健康な文化田園都市",
     "lgcode": "262111"
   },
@@ -14995,7 +14995,7 @@
     "citykana": "きしわだし",
     "lat": "34.46027778",
     "lng": "135.3711111",
-    "url": "https://www.city.kishiwada.osaka.jp/",
+    "url": "https://www.city.kishiwada.lg.jp/",
     "phrase": "祭都きしわだ　世界にいちばん近い城下町 人がいき 地域が輝くまち 岸和田",
     "lgcode": "272027"
   },
@@ -16111,7 +16111,7 @@
     "citykana": "やまとこおりやまし",
     "lat": "34.64944444",
     "lng": "135.7827778",
-    "url": "https://www.city.yamatokoriyama.nara.jp/",
+    "url": "https://www.city.yamatokoriyama.lg.jp/",
     "phrase": "平和のシンボル、金魚が泳ぐ城下町。",
     "lgcode": "292036"
   },
@@ -16603,7 +16603,7 @@
     "citykana": "ごぼうし",
     "lat": "33.89138889",
     "lng": "135.1525",
-    "url": "https://www.city.gobo.wakayama.jp/",
+    "url": "https://www.city.gobo.lg.jp/",
     "phrase": "人と自然と産業が調和し まちが輝き笑顔あふれる 元気な御坊",
     "lgcode": "302058"
   },
@@ -16687,7 +16687,7 @@
     "citykana": "くどやまちょう",
     "lat": "34.28722222",
     "lng": "135.5622222",
-    "url": "https://www.town.kudoyama.wakayama.jp/",
+    "url": "https://www.town.kudoyama.lg.jp/",
     "phrase": "美しい九度山、歴史に生きる町　九度山",
     "lgcode": "303437"
   },
@@ -17143,7 +17143,7 @@
     "citykana": "まつえし",
     "lat": "35.46805556",
     "lng": "133.0486111",
-    "url": "https://www.city.matsue.shimane.jp/",
+    "url": "https://www.city.matsue.lg.jp/",
     "phrase": "水と緑、歴史と教育を大切にし 伸びゆく国際文化観光都市・松江",
     "lgcode": "322016"
   },
@@ -17191,7 +17191,7 @@
     "citykana": "おおだし",
     "lat": "35.19222222",
     "lng": "132.4997222",
-    "url": "https://www.city.ohda.lg.jp/",
+    "url": "https://www.city.oda.lg.jp/",
     "phrase": "自然・歴史・ひとが光り輝く　だれもが住みよい県央の中核都市",
     "lgcode": "322059"
   },
@@ -18367,7 +18367,7 @@
     "citykana": "こまつしまし",
     "lat": "34.00472222",
     "lng": "134.5905556",
-    "url": "https://www.city.komatsushima.tokushima.jp/",
+    "url": "https://www.city.komatsushima.lg.jp/",
     "phrase": "安全・安心・信頼のこまつしま",
     "lgcode": "362034"
   },
@@ -21319,7 +21319,7 @@
     "citykana": "あしきたまち",
     "lat": "32.29888889",
     "lng": "130.4930556",
-    "url": "https://www.ashikita-t.kumamoto-sgn.jp/www/toppage/0000000000000/APM03000.html",
+    "url": "https://www.town.ashikita.lg.jp/",
     "phrase": "個性の光る活力あるまちづくり",
     "lgcode": "434825"
   },
@@ -22747,7 +22747,7 @@
     "citykana": "よみたんそん",
     "lat": "26.39611111",
     "lng": "127.7444444",
-    "url": "https://www.yomitan.jp/",
+    "url": "https://www.vill.yomitan.okinawa.jp/",
     "phrase": "ゆたさある　風水　優る肝心　咲き誇る文化や　健康の村",
     "lgcode": "473243"
   },
