@@ -1,13 +1,13 @@
-# localgovjp 日本の地方自治体一覧オープンデータ
+# localgovjp
 
 list of local government in Japan
 
-## format
+## Format
 
 - pid,pref,cid,city,citykana,lat,lng,url,phrase,lgcode
-    - （都道府県ID, 都道府県名, 市区町村ID, 市区町村名, 市区町村名よみ, 緯度, 経度, 自治体ホームページURL, キャッチフレーズ, 全国地方公共団体コード）
+    - (Prefecture ID, Prefecture Name, City ID, City Name, City Name Kana, Latitude, Longitude, City Website URL, Catchphrase, Local Government Code)
 
-## for web app
+## For Web App
 
 - CSV
    - https://code4fukui.github.io/localgovjp/localgovjp-utf8.csv  
@@ -16,83 +16,63 @@ list of local government in Japan
    - https://code4fukui.github.io/localgovjp/localgovjp.json  
    - https://code4fukui.github.io/localgovjp/prefjp.json  
 
-## how to update
+## How to Update
 
 with [Deno](https://deno.land/)
 
 ### localgov
 
 1. make [deno/c-localgovjp-utf8.csv](deno/c-localgovjp-utf8.csv)
-```bash
-cd deno
-deno -A chk-localgov.js
-```
-3. check err and edit [deno/c-localgovjp-utf8.csv](deno/c-localgovjp-utf8.csv)
+2. check err and edit [deno/c-localgovjp-utf8.csv](deno/c-localgovjp-utf8.csv)
 3. make [localgovjp-utf8.csv](localgovjp-utf8.csv) / [localgovjp.json](localgovjp.json) / [localgovjp.js](localgovjp.js)
-```bash
-deno -A make-localgov.js
-```
-4. make trust by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) need PRIKEY on .env
-```bash
-deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ --allow-env --env-file sign-localgov.js
-```
+4. make trust by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) (needs PRIKEY on .env)
 
 ### pref
 
 1. make [deno/c-prefjp-utf8.csv](deno/c-prefjp-utf8.csv)
-```bash
-cd deno
-deno -A chk-pref.js
-```
-3. check err and edit [deno/c-prefjp-utf8.csv](deno/c-pref-utf8.csv)
+2. check err and edit [deno/c-prefjp-utf8.csv](deno/c-pref-utf8.csv)
 3. make [prefjp-utf8.csv](prefjp-utf8.csv) / [prefjp.json](prefjp.json) / [prefjp.js](prefjp.js)
-```bash
-deno -A make-pref.js
-```
-4. make trust by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) need PRIKEY on .env
-```bash
-deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ --allow-env --env-file sign-pref.js
-```
+4. make trust by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) (needs PRIKEY on .env)
 
-## how to verify
+## How to Verify
 
 verify by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/)
-```bash
+```
 deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js localgovjp-utf8.csv
 deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js localgovjp.json
 deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js prefjp-utf8.csv
 deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js prefjp.json
 ```
 
-## sample app
+## Sample App
 
-- [日本の都市数](https://code4fukui.github.io/localgovjp/)
-- [日本の都道府県と市区町村のサイト一覧](https://code4fukui.github.io/localgovjp/list.html)
-- [全国役場マップ](https://code4fukui.github.io/localgovjp/map.html)
-- [日本の都道府県マップ](https://code4fukui.github.io/localgovjp/prefjp.html)
+- [Number of Cities in Japan](https://code4fukui.github.io/localgovjp/)
+- [List of Prefecture and City Websites in Japan](https://code4fukui.github.io/localgovjp/list.html)
+- [Map of City Halls in Japan](https://code4fukui.github.io/localgovjp/map.html)
+- [Map of Prefectures in Japan](https://code4fukui.github.io/localgovjp/prefjp.html)
 
-## data
+## Data Sources
 
-- [国土地理院](https://github.com/gsi-cyberjapan/gsimaps)
-- [地方公共団体情報システム機構 全国自治体マップ検索](https://www.j-lis.go.jp/spd/map-search/cms_1069.html)
+- [Geospatial Information Authority of Japan](https://github.com/gsi-cyberjapan/gsimaps)
+- [Local Government Information System Organization - Map Search](https://www.j-lis.go.jp/spd/map-search/cms_1069.html)
 
-## update
+## Updates
 
-- 2016-11-29 全Webサイトチェックし更新
-- 2017-02-18 泊村の重複を削除
-- 2019-01-01 更新
-- 2020-01-04 更新
-- 2020-04-17 更新
-- 2021-01-20 更新
-- 2021-06-02 福岡県那珂川町→福岡県那珂川市
-- 2021-06-30 三重県北牟婁郡紀北町役場の位置情報誤り修正
-- 2021-07-19 広島県江田島市 場所修正
-- 2021-10-31 都道府県URL更新、ISO3155-2追加
-- 2021-11-01 市区町村URL更新、全国地方公共団体コード(lgcode)追加
-- 2023-03-09 市区町村URL更新
-- 2026-01-01 市区町村URL更新
-- 2026-03-09 市区町村URL更新
+- 2016-11-29 Checked all websites and updated
+- 2017-02-18 Removed duplicate for Tomakoma village
+- 2019-01-01 Updated
+- 2020-01-04 Updated
+- 2020-04-17 Updated
+- 2021-01-20 Updated
+- 2021-06-02 Fukuoka Nakagawa Town -> Fukuoka Nakagawa City
+- 2021-06-30 Corrected location information for Kiho Town, Mie
+- 2021-07-19 Corrected location for Etajima City, Hiroshima
+- 2021-10-31 Updated prefecture URLs, added ISO3155-2
+- 2021-11-01 Updated city URLs, added Local Government Code (lgcode)
+- 2023-03-09 Updated city URLs
+- 2026-01-01 Updated city URLs
+- 2026-03-09 Updated city URLs
 
-## license
+## License
 
 - [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
