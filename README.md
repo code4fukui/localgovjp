@@ -1,6 +1,8 @@
 # localgovjp
 
-list of local government in Japan
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
+List of local government in Japan
 
 ## Format
 

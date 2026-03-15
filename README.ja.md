@@ -1,6 +1,6 @@
 # localgovjp 日本の地方自治体一覧オープンデータ
 
-list of local government in Japan
+日本の地方自治体（都道府県、市区町村）の一覧データです。
 
 ## format
 
@@ -23,41 +23,21 @@ with [Deno](https://deno.land/)
 ### localgov
 
 1. make [deno/c-localgovjp-utf8.csv](deno/c-localgovjp-utf8.csv)
-```bash
-cd deno
-deno -A chk-localgov.js
-```
-3. check err and edit [deno/c-localgovjp-utf8.csv](deno/c-localgovjp-utf8.csv)
+2. check err and edit [deno/c-localgovjp-utf8.csv](deno/c-localgovjp-utf8.csv)
 3. make [localgovjp-utf8.csv](localgovjp-utf8.csv) / [localgovjp.json](localgovjp.json) / [localgovjp.js](localgovjp.js)
-```bash
-deno -A make-localgov.js
-```
-4. make trust by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) need PRIKEY on .env
-```bash
-deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ --allow-env --env-file sign-localgov.js
-```
+4. make trust by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) (needs PRIKEY on .env)
 
 ### pref
 
 1. make [deno/c-prefjp-utf8.csv](deno/c-prefjp-utf8.csv)
-```bash
-cd deno
-deno -A chk-pref.js
-```
-3. check err and edit [deno/c-prefjp-utf8.csv](deno/c-pref-utf8.csv)
+2. check err and edit [deno/c-prefjp-utf8.csv](deno/c-pref-utf8.csv)
 3. make [prefjp-utf8.csv](prefjp-utf8.csv) / [prefjp.json](prefjp.json) / [prefjp.js](prefjp.js)
-```bash
-deno -A make-pref.js
-```
-4. make trust by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) need PRIKEY on .env
-```bash
-deno --allow-import=code4fukui.github.io --allow-write=../ --allow-read=../ --allow-env --env-file sign-pref.js
-```
+4. make trust by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) (needs PRIKEY on .env)
 
 ## how to verify
 
 verify by [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/)
-```bash
+```
 deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js localgovjp-utf8.csv
 deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js localgovjp.json
 deno --allow-import=code4fukui.github.io --allow-read=./ https://code4fukui.github.io/opendata-with-trust/verifyTrust.js prefjp-utf8.csv
