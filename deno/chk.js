@@ -24,6 +24,7 @@ const chkHeader = async (url) => {
 const chk = async (fn) => {
     //const srcfn = fn;
     const srcfn = "../" + fn;
+    console.log(srcfn);
     const data = CSV.toJSON(CSV.decode(await Deno.readTextFile(srcfn)));
     console.log(data);
     for (const d of data) {

@@ -1339,7 +1339,7 @@
     "citykana": "びふかちょう",
     "lat": "44.48102079",
     "lng": "142.3430577",
-    "url": "http://www.town.bifuka.hokkaido.jp/",
+    "url": "https://www.town.bifuka.hokkaido.jp/",
     "phrase": "夢いっぱい　北の大地（まち）・びふか",
     "lgcode": "014699"
   },
@@ -1831,7 +1831,7 @@
     "citykana": "むかわちょう",
     "lat": "42.57474771",
     "lng": "141.9267449",
-    "url": "http://www.town.mukawa.lg.jp/",
+    "url": "https://www.town.mukawa.lg.jp/",
     "phrase": "人と自然が輝く清流と健康のまち",
     "lgcode": "015865"
   },
@@ -2311,7 +2311,7 @@
     "citykana": "くろいしし",
     "lat": "40.64277778",
     "lng": "140.5944444",
-    "url": "http://www.city.kuroishi.aomori.jp/",
+    "url": "https://www.city.kuroishi.aomori.jp/",
     "phrase": "あずましの里くろいし",
     "lgcode": "022047"
   },
@@ -2479,7 +2479,7 @@
     "citykana": "ふじさきまち",
     "lat": "40.65611111",
     "lng": "140.5025",
-    "url": "http://www.town.fujisaki.lg.jp/",
+    "url": "https://www.town.fujisaki.lg.jp/",
     "phrase": "みんなで創る心豊かな優しいまち",
     "lgcode": "023612"
   },
@@ -11107,7 +11107,7 @@
     "citykana": "あおきむら",
     "lat": "36.37",
     "lng": "138.1286111",
-    "url": "http://www.vill.aoki.nagano.jp/",
+    "url": "https://www.vill.aoki.nagano.jp/",
     "phrase": "いで湯と文化の里 青木村 ～未来への創造～ 子どもの笑い声がこだまする郷（さと）",
     "lgcode": "203491"
   },
@@ -11383,7 +11383,7 @@
     "citykana": "おおしかむら",
     "lat": "35.57833333",
     "lng": "138.0341667",
-    "url": "http://www.vill.ooshika.nagano.jp/",
+    "url": "https://www.vill.ooshika.nagano.jp/",
     "phrase": "南アルプスと歌舞伎の里　ゆとりと感動 楽しみを発見する 大鹿村",
     "lgcode": "204170"
   },
@@ -18451,7 +18451,7 @@
     "citykana": "かみかつちょう",
     "lat": "33.88888889",
     "lng": "134.4019444",
-    "url": "http://www.kamikatsu.jp/",
+    "url": "https://www.kamikatsu.jp/",
     "phrase": "いっきゅうと彩の里・かみかつ",
     "lgcode": "363022"
   },
@@ -19315,7 +19315,7 @@
     "citykana": "とさちょう",
     "lat": "33.73694444",
     "lng": "133.5322222",
-    "url": "http://www.town.tosa.kochi.jp/",
+    "url": "https://www.town.tosa.kochi.jp/",
     "phrase": "おいでよ、森と水の早明浦へ",
     "lgcode": "393631"
   },
@@ -22231,7 +22231,7 @@
     "citykana": "としまむら",
     "lat": "31.59305556",
     "lng": "130.5605556",
-    "url": "http://www.tokara.jp/",
+    "url": "https://www.tokara.jp/",
     "phrase": "刻（とき）を忘れさせる島　吐喝喇",
     "lgcode": "463043"
   },
@@ -22639,7 +22639,7 @@
     "citykana": "くにがみそん",
     "lat": "26.74583333",
     "lng": "128.1780556",
-    "url": "http://www.vill.kunigami.okinawa.jp/",
+    "url": "https://www.vill.kunigami.okinawa.jp/",
     "phrase": "森と水とやすらぎの里“くにがみ”",
     "lgcode": "473014"
   },
@@ -22891,7 +22891,7 @@
     "citykana": "みなみだいとうそん",
     "lat": "25.82888889",
     "lng": "131.2319444",
-    "url": "http://www.vill.minamidaito.okinawa.jp/",
+    "url": "https://www.vill.minamidaito.okinawa.jp/",
     "phrase": "人と自然が活きるフロンティアアイランド",
     "lgcode": "473570"
   },
