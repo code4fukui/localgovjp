@@ -68,7 +68,7 @@
 1.  適切なチェックスクリプトを実行して、確認用の中間ファイルを生成します。
 2.  エラーを手動で確認し、生成された `deno/c-prefjp-utf8.csv` を編集します。
 3.  `deno/make.js` を調整して、最終的なデータファイル（`.csv`, `.json`, `.js`）を生成します。
-4.  [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) を使用してデータに署名します（`.env` に `PRIKEY` が必要です）: `deno run -A deno/sign-pref.js`
+4.  [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) を使用してデータに署名します（`.env` に `PRIKEY` が必要です）: `cd deno; deno run -A --env-file=.env sign-pref.js`
 
 ## データの検証方法
 

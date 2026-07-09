@@ -61,16 +61,16 @@ The data is available in both CSV and JSON formats, hosted via GitHub Pages for 
 This project uses [Deno](https://deno.land/) for data processing and updates.
 
 ### Municipalities (`localgov`)
-1.  Generate an intermediate file for review: `deno run -A deno/chk-localgov.js`
+1.  Generate an intermediate file for review: `cd deno; deno -A chk-localgov.js`
 2.  Manually check for errors and edit the generated `deno/c-localgovjp-utf8.csv`.
-3.  Generate the final data files (`.csv`, `.json`, `.js`): `deno run -A deno/make-localgov.js`
-4.  Sign the data using [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) (requires `PRIKEY` in `.env`): `deno run -A deno/sign-localgov.js`
+3.  Generate the final data files (`.csv`, `.json`, `.js`): `cd deno; deno -A make-localgov.js`
+4.  Sign the data using [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) (requires `PRIKEY` in `.env`): `cd deno; deno -A --env-file=.env sign-localgov.js`
 
 ### Prefectures (`pref`)
 1.  Generate an intermediate file for review by running the appropriate check script.
 2.  Manually check for errors and edit the generated `deno/c-prefjp-utf8.csv`.
 3.  Generate the final data files (`.csv`, `.json`, `.js`) by adapting `deno/make.js`.
-4.  Sign the data using [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) (requires `PRIKEY` in `.env`): `deno run -A deno/sign-pref.js`
+4.  Sign the data using [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) (requires `PRIKEY` in `.env`): `cd deno; deno run -A --env-file=.env sign-pref.js`
 
 ## How to Verify Data
 
