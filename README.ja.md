@@ -59,10 +59,10 @@
 このプロジェクトでは、データの処理と更新に[Deno](https://deno.land/)を使用しています。
 
 ### 市区町村（`localgov`）
-1.  確認用の中間ファイルを生成します: `deno run -A deno/chk-localgov.js`
+1.  確認用の中間ファイルを生成します: `cd deno; deno -A chk-localgov.js`
 2.  エラーを手動で確認し、生成された `deno/c-localgovjp-utf8.csv` を編集します。
-3.  最終的なデータファイル（`.csv`, `.json`, `.js`）を生成します: `deno run -A deno/make-localgov.js`
-4.  [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) を使用してデータに署名します（`.env` に `PRIKEY` が必要です）: `deno run -A deno/sign-localgov.js`
+3.  最終的なデータファイル（`.csv`, `.json`, `.js`）を生成します: `cd deno; deno -A make-localgov.js`
+4.  [OpendataWithTrust](https://github.com/code4fukui/opendata-with-trust/) を使用してデータに署名します（`.env` に `PRIKEY` が必要です）: `deno -A deno/sign-localgov.js`
 
 ### 都道府県（`pref`）
 1.  適切なチェックスクリプトを実行して、確認用の中間ファイルを生成します。
@@ -102,6 +102,7 @@ deno run --allow-read --allow-net https://code4fukui.github.io/opendata-with-tru
 - 2023-03-09 市区町村URL更新
 - 2026-01-01 市区町村URL更新
 - 2026-03-09 市区町村URL更新
+- 2026-07-09 市区町村URL更新
 
 ## license
 

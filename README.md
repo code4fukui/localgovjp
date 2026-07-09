@@ -104,6 +104,7 @@ deno run --allow-read --allow-net https://code4fukui.github.io/opendata-with-tru
 - 2023-03-09 Updated municipality URLs
 - 2026-01-01 Updated municipality URLs
 - 2026-03-09 Updated municipality URLs
+- 2026-07-09 Updated municipality URLs
 
 ## License
 
