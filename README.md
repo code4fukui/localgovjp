@@ -6,10 +6,14 @@ An open dataset of all local governments in Japan, including prefectures, cities
 
 ## Sample Applications
 
+- [List of Prefecture and Municipality Websites in Japan](https://code4fukui.github.io/localgovjp/list.html)
+- [Map of Government Offices in Japan](https://code4fukui.github.io/localgovjp/map.html)
+- [Japanese Local Government Web Safety Rate](https://code4fukui.github.io/opendatacity/localgovjp-secureornot.html)
 - [Number of Cities in Japan](https://code4fukui.github.io/localgovjp/)
-- [List of Prefecture and City Websites in Japan](https://code4fukui.github.io/localgovjp/list.html)
-- [Map of City Halls in Japan](https://code4fukui.github.io/localgovjp/map.html)
 - [Map of Prefectures in Japan](https://code4fukui.github.io/localgovjp/prefjp.html)
+- [Japanese Local Government AOSSL Dashboard](https://code4fukui.github.io/opendatacity/citiesratio7x7ssl.html)
+- [Japanese Local Government Domain Census](https://code4fukui.github.io/opendatacity/localgovjp-domain.html)
+- [Japanese Local Government Trusted Primary Information Rate](https://code4fukui.github.io/opendatacity/localgovjp-trust.html)
 
 ## Available Data
 
@@ -82,4 +86,25 @@ deno run --allow-read --allow-net https://code4fukui.github.io/opendata-with-tru
 ## Data Sources
 
 - [Geospatial Information Authority of Japan](https://github.com/gsi-cyberjapan/gsimaps)
-- [Local Government
+- [Japan Agency for Local Authority Information Systems, National Municipality Map Search](https://www.j-lis.go.jp/spd/map-search/cms_1069.html)
+
+## Update
+
+- 2016-11-29 Checked and updated all websites
+- 2017-02-18 Removed duplicate entry for Tomari Village
+- 2019-01-01 Updated
+- 2020-01-04 Updated
+- 2020-04-17 Updated
+- 2021-01-20 Updated
+- 2021-06-02 Changed Nakagawa Town, Fukuoka Prefecture to Nakagawa City, Fukuoka Prefecture
+- 2021-06-30 Fixed incorrect location information for the Kihoku Town Office, Kitamuro District, Mie Prefecture
+- 2021-07-19 Fixed the location of Etajima City, Hiroshima Prefecture
+- 2021-10-31 Updated prefecture URLs and added ISO 3166-2
+- 2021-11-01 Updated municipality URLs and added local government codes (`lgcode`)
+- 2023-03-09 Updated municipality URLs
+- 2026-01-01 Updated municipality URLs
+- 2026-03-09 Updated municipality URLs
+
+## License
+
+- [CC0](https://creativecommons.org/publicdomain/zero/1.0/)

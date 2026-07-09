@@ -4,10 +4,14 @@
 
 ## サンプルアプリケーション
 
-- [日本の市区町村数](https://code4fukui.github.io/localgovjp/)
-- [日本の都道府県・市区町村ウェブサイト一覧](https://code4fukui.github.io/localgovjp/list.html)
-- [日本の市役所マップ](https://code4fukui.github.io/localgovjp/map.html)
+- [日本の都道府県と市区町村のサイト一覧](https://code4fukui.github.io/localgovjp/list.html)
+- [全国役場マップ](https://code4fukui.github.io/localgovjp/map.html)
+- [日本の自治体「Webの安全」対策率](https://code4fukui.github.io/opendatacity/localgovjp-secureornot.html)
+- [日本の都市数](https://code4fukui.github.io/localgovjp/)
 - [日本の都道府県マップ](https://code4fukui.github.io/localgovjp/prefjp.html)
+- [日本の自治体AOSSLダッシュボード](https://code4fukui.github.io/opendatacity/citiesratio7x7ssl.html)
+- [日本の自治体ドメインセンサス](https://code4fukui.github.io/opendatacity/localgovjp-domain.html)
+- [日本の自治体「信頼の一次情報」実現率」](https://code4fukui.github.io/opendatacity/localgovjp-trust.html)
 
 ## 利用可能なデータ
 
@@ -80,4 +84,25 @@ deno run --allow-read --allow-net https://code4fukui.github.io/opendata-with-tru
 ## データソース
 
 - [国土地理院](https://github.com/gsi-cyberjapan/gsimaps)
-- [地方公共団体
+- [地方公共団体情報システム機構 全国自治体マップ検索](https://www.j-lis.go.jp/spd/map-search/cms_1069.html)
+
+## update
+
+- 2016-11-29 全Webサイトチェックし更新
+- 2017-02-18 泊村の重複を削除
+- 2019-01-01 更新
+- 2020-01-04 更新
+- 2020-04-17 更新
+- 2021-01-20 更新
+- 2021-06-02 福岡県那珂川町→福岡県那珂川市
+- 2021-06-30 三重県北牟婁郡紀北町役場の位置情報誤り修正
+- 2021-07-19 広島県江田島市 場所修正
+- 2021-10-31 都道府県URL更新、ISO3155-2追加
+- 2021-11-01 市区町村URL更新、全国地方公共団体コード(lgcode)追加
+- 2023-03-09 市区町村URL更新
+- 2026-01-01 市区町村URL更新
+- 2026-03-09 市区町村URL更新
+
+## license
+
+- [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
